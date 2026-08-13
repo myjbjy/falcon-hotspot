@@ -5,6 +5,7 @@
 一个完整的 Shell Engineering 第五形态示例：代码做骨架（Python 模块），Agent/Skill 做灵魂（LLM 解读 + 调度编排），产物是**附带网站的超级应用**。
 
 - 线上站点：https://myjbjy.github.io/falcon-hotspot/
+- 系统架构图：https://myjbjy.github.io/falcon-hotspot/architecture.html
 - 每日日报：`docs/daily/YYYY-MM-DD.md`（自动生成）
 
 ## 架构（对应课程五形态分层）
