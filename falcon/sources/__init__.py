@@ -2,6 +2,8 @@
 from __future__ import annotations
 
 from .base import BaseSource, Item, clean_text
+from .weibo import WeiboSource
+from .zhihu import ZhihuSource
 from .tieba import TiebaSource
 from .baidu import BaiduSource
 from .toutiao import ToutiaoSource
@@ -9,9 +11,12 @@ from .ithome import ITHomeSource
 from .v2ex import V2EXSource
 from .hackernews import HackerNewsSource
 from .github_trending import GitHubTrendingSource
+from .csdn import CSDNSource
 
 REGISTRY: dict[str, type[BaseSource]] = {
     cls.name: cls for cls in (
+        WeiboSource,
+        ZhihuSource,
         TiebaSource,
         BaiduSource,
         ToutiaoSource,
@@ -19,6 +24,7 @@ REGISTRY: dict[str, type[BaseSource]] = {
         V2EXSource,
         HackerNewsSource,
         GitHubTrendingSource,
+        CSDNSource,
     )
 }
 

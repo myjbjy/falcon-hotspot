@@ -12,7 +12,7 @@
 
 ```
 ┌─ 调度层 ─┐   Hermes cron（每日 09:10 流水线 / 09:40 watchdog 监控）
-├─ 采集层 ─┤   falcon/sources/：7 个可插拔源（贴吧/百度/头条/IT之家/V2EX/HN/GitHub）
+├─ 采集层 ─┤   falcon/sources/：10 个可插拔源（微博/知乎/贴吧/百度/头条/IT之家/V2EX/HN/GitHub/CSDN）
 ├─ 分析层 ─┤   falcon/analyzer.py：跨源聚类 + 排名加权评分（纯 Python，零 LLM 成本）
 │            └ LLM 解读：Hermes agent 读聚合结果生成《今日热点简报》
 ├─ 报告层 ─┤   falcon/report.py：日报 md + 自包含 html + history.json
@@ -45,13 +45,16 @@ falcon/
 ├── collector.py        # 采集调度（单源失败不影响整体）
 ├── sources/            # 数据源（新增源 = 继承 BaseSource + 注册）
 │   ├── base.py         # Item 统一结构 + 接口
+│   ├── weibo.py        # 微博热搜（JSON，必须带 Referer: weibo.com）
+│   ├── zhihu.py        # 知乎热榜（JSON 老接口 api.zhihu.com/topstory/hot-list）
 │   ├── tieba.py        # 贴吧热议（JSON）
-│   ├── baidu.py        # 百度热搜（HTML，TLS 重试）
+│   ├── baidu.py        # 百度热搜（HTML，TLS 重试，勿用 __INITIAL_STATE__）
 │   ├── toutiao.py      # 头条热榜（JSON）
 │   ├── ithome.py       # IT之家（HTML）
 │   ├── v2ex.py         # V2EX（JSON）
 │   ├── hackernews.py   # Hacker News（JSON，并行）
-│   └── github_trending.py  # GitHub Trending（HTML，重试）
+│   ├── github_trending.py  # GitHub Trending（HTML，重试）
+│   └── csdn.py         # CSDN 热榜（JSON，重试）
 ├── analyzer.py         # 跨源聚类 + 评分 + LLM prompt 构建
 ├── report.py           # 日报 md/html + history.json
 ├── web.py              # 站点落地页 + latest.json
