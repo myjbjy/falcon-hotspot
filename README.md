@@ -28,6 +28,9 @@
 # 全链路（采集→分析→归档→日报→站点）
 python -m falcon.pipeline
 
+# 高频刷新（只更新站点数据，不归档不解读，零 LLM 成本）
+python -m falcon.refresh
+
 # 只看采集
 python -m falcon.collector
 
@@ -80,8 +83,9 @@ score = Σ(源权重 / 源内排名) × (1 + 0.5 × (跨源数 - 1))
 
 | 任务 | 时间 | 说明 |
 | --- | --- | --- |
-| 每日流水线 | 09:10 | agent 模式：跑 `python -m falcon.pipeline` + LLM 写今日解读，追加到日报 + 部署 |
-| 每日监控 | 09:40 | no_agent 模式：`python scripts/watchdog.py`，异常才输出（零 LLM 成本） |
+| 高频刷新 | 每 3 小时 | no_agent：`falcon.refresh` 采集刷新站点 + 部署（零 LLM 成本，日更 8 次） |
+| 每日流水线 | 09:10 | agent 模式：跑 pipeline + LLM 写今日解读，追加到日报 + 部署 |
+| 每日监控 | 09:40 | no_agent：watchdog，异常才报警（零 LLM 成本） |
 
 ## 新增数据源（3 步）
 
