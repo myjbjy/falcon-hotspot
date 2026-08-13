@@ -26,6 +26,8 @@ def ensure_dirs() -> None:
     os.makedirs(DAILY_DIR, exist_ok=True)
     os.makedirs(SITE_DIR, exist_ok=True)
     os.makedirs(os.path.join(SITE_DIR, "daily"), exist_ok=True)
+    # 禁用 Jekyll 处理，保持纯静态发布
+    open(os.path.join(SITE_DIR, ".nojekyll"), "w").close()
 
 
 def save_daily(payload: dict, date_str: str | None = None) -> str:
