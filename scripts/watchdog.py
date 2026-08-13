@@ -23,7 +23,7 @@ from datetime import datetime, timedelta, timezone
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DAILY = os.path.join(ROOT, "data", "daily")
-SITE = os.path.join(ROOT, "site")
+SITE = os.path.join(ROOT, "docs")
 FAIL_MARK = os.path.join(ROOT, "data", ".fail_count")
 CST = timezone(timedelta(hours=8))
 

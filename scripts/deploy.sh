@@ -5,7 +5,7 @@ set -e
 cd "$(dirname "$0")/.." || exit 1
 
 # 只提交站点产物与数据归档（代码提交由开发阶段手动/agent 负责）
-git add site/ data/ latest.json 2>/dev/null || git add site/ data/
+git add docs/ data/ 2>/dev/null || git add docs/ data/
 if git diff --cached --quiet; then
     echo "无内容变更，跳过推送"
     exit 0

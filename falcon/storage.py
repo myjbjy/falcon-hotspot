@@ -14,7 +14,8 @@ CST = timezone(timedelta(hours=8))
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # 仓库根
 DATA_DIR = os.path.join(ROOT, "data")
 DAILY_DIR = os.path.join(DATA_DIR, "daily")
-SITE_DIR = os.path.join(ROOT, "site")
+# GitHub Pages 发布源固定为 /docs（Pages source 仅支持根目录或 /docs）
+SITE_DIR = os.path.join(ROOT, "docs")
 
 
 def today() -> str:

@@ -5,7 +5,7 @@
 一个完整的 Shell Engineering 第五形态示例：代码做骨架（Python 模块），Agent/Skill 做灵魂（LLM 解读 + 调度编排），产物是**附带网站的超级应用**。
 
 - 线上站点：https://myjbjy.github.io/falcon-hotspot/
-- 每日日报：`site/daily/YYYY-MM-DD.md`（自动生成）
+- 每日日报：`docs/daily/YYYY-MM-DD.md`（自动生成）
 
 ## 架构（对应课程五形态分层）
 
@@ -59,7 +59,7 @@ scripts/
 ├── deploy.sh           # 自动提交推送 Pages
 └── watchdog.py         # 监控看门狗
 data/daily/             # 每日归档 JSON（历史数据源）
-site/                   # 生成的站点（Pages 发布根）
+docs/                   # 生成的站点（Pages 发布源 = /docs）
 ```
 
 ## 评分算法
