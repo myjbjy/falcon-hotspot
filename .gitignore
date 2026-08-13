@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 运行时状态（watchdog 连续失败计数）
+data/.fail_count
+
+# 本地测试
+.DS_Store
+*.log
