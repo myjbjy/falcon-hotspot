@@ -1,11 +1,11 @@
 {
  "date": "2026-08-13",
- "fetched_at": "2026-08-13T15:04:38+08:00",
+ "fetched_at": "2026-08-13T15:09:44+08:00",
  "stats": {
-  "total_items": 166,
-  "total_topics": 159,
+  "total_items": 186,
+  "total_topics": 178,
   "cross_source_topics": 6,
-  "ok_sources": 9,
+  "ok_sources": 10,
   "total_sources": 10,
   "source_labels": {
    "weibo": "微博热搜",
@@ -30,8 +30,18 @@
      "title": "朱镕基同志逝世",
      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23",
      "rank": 1,
-     "heat": 1002725,
+     "heat": 1002705,
      "desc": "",
+     "tags": [],
+     "extra": {}
+    },
+    {
+     "source": "tieba",
+     "title": "朱镕基同志逝世",
+     "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357224&amp;topic_name=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96",
+     "rank": 10,
+     "heat": 0,
+     "desc": "第十五届中央政治局常委，国务院原总理朱镕基去世，享年98岁。",
      "tags": [],
      "extra": {}
     },
@@ -40,7 +50,7 @@
      "title": "朱镕基同志逝世",
      "url": "https://www.baidu.com/s?wd=朱镕基同志逝世",
      "rank": 2,
-     "heat": 7809314,
+     "heat": 7808257,
      "desc": "",
      "tags": [],
      "extra": {}
@@ -48,9 +58,9 @@
     {
      "source": "toutiao",
      "title": "朱镕基同志逝世",
-     "url": "https://www.toutiao.com/trending/7672219414749793835/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672219414749793835%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7672219414749793835",
+     "url": "https://www.toutiao.com/trending/7672219414749793835/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672219414749793835%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7672219414749793835",
      "rank": 1,
-     "heat": 82829231,
+     "heat": 83061552,
      "desc": "",
      "tags": [],
      "extra": {}
@@ -58,14 +68,15 @@
    ],
    "sources": [
     "baidu",
+    "tieba",
     "toutiao",
     "weibo"
    ],
-   "rank_sum": 3.2,
-   "heat_sum": 91641270,
+   "rank_sum": 3.3099999999999996,
+   "heat_sum": 91872514,
    "min_rank": 1,
-   "score": 6.4,
-   "source_count": 3,
+   "score": 8.275,
+   "source_count": 4,
    "rank": 1
   },
   {
@@ -77,7 +88,7 @@
      "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
      "url": "https://zhuanlan.zhihu.com/p/2070933430993414087",
      "rank": 1,
-     "heat": 23820000,
+     "heat": 22760000,
      "desc": "中国共产党中央委员会、中华人民共和国全国人民代表大会常务委员会、中华人民共和国国务院、中国人民政治协商会议全国委员会沉痛宣告：中国共产党的优秀党员，久经考验的忠诚的共产主义战士，杰出的无产阶级革命家、政治家，党和国家的卓越领导人，中国共产党",
      "tags": [
       "article"
@@ -89,7 +100,7 @@
     "zhihu"
    ],
    "rank_sum": 1.3,
-   "heat_sum": 23820000,
+   "heat_sum": 22760000,
    "min_rank": 1,
    "score": 1.3,
    "source_count": 1,
@@ -104,7 +115,7 @@
      "title": "“最重要的就是一个都不能少”",
      "url": "https://www.baidu.com/s?wd=“最重要的就是一个都不能少”",
      "rank": 1,
-     "heat": 7904893,
+     "heat": 7904260,
      "desc": "",
      "tags": [],
      "extra": {}
@@ -114,11 +125,36 @@
     "baidu"
    ],
    "rank_sum": 1.2,
-   "heat_sum": 7904893,
+   "heat_sum": 7904260,
    "min_rank": 1,
    "score": 1.2,
    "source_count": 1,
    "rank": 3
+  },
+  {
+   "title": "仗义喜羊羊!病毒吧主火出圈",
+   "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357317&amp;topic_name=%E4%BB%97%E4%B9%89%E5%96%9C%E7%BE%8A%E7%BE%8A%21%E7%97%85%E6%AF%92%E5%90%A7%E4%B8%BB%E7%81%AB%E5%87%BA%E5%9C%88",
+   "items": [
+    {
+     "source": "tieba",
+     "title": "仗义喜羊羊!病毒吧主火出圈",
+     "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357317&amp;topic_name=%E4%BB%97%E4%B9%89%E5%96%9C%E7%BE%8A%E7%BE%8A%21%E7%97%85%E6%AF%92%E5%90%A7%E4%B8%BB%E7%81%AB%E5%87%BA%E5%9C%88",
+     "rank": 1,
+     "heat": 0,
+     "desc": "病毒吧主无偿帮人杀毒十几年，被众多网友称为赛博华佗。有人用“行侠仗义喜羊羊”形容他，吧主直接火出圈了。",
+     "tags": [],
+     "extra": {}
+    }
+   ],
+   "sources": [
+    "tieba"
+   ],
+   "rank_sum": 1.1,
+   "heat_sum": 0,
+   "min_rank": 1,
+   "score": 1.1,
+   "source_count": 1,
+   "rank": 4
   },
   {
    "title": "深夜放大招！DeepSeek V4 Pro 正式版 API 更新上线，多项测试性能接近 Fable 5",
@@ -143,7 +179,7 @@
    "min_rank": 1,
    "score": 1.1,
    "source_count": 1,
-   "rank": 4
+   "rank": 5
   },
   {
    "title": "不建议年轻人刻意抑制消费去完成所谓的原始积累",
@@ -154,7 +190,7 @@
      "title": "不建议年轻人刻意抑制消费去完成所谓的原始积累",
      "url": "https://www.v2ex.com/t/1233943",
      "rank": 1,
-     "heat": 102,
+     "heat": 103,
      "desc": "以前我也相信年轻人应该尽量减少消费，完成原始积累，再相信复利的力量搞长期投资。即所谓的一万不买手机、十万不买车、一百万不买房。但是随着年龄的增长，我不认可这个说法了，至少不完全认同了。房子可以不买，但手机与车则是能买就买吧。节衣缩食，用最便",
      "tags": [
       "生活"
@@ -166,11 +202,11 @@
     "v2ex"
    ],
    "rank_sum": 1.1,
-   "heat_sum": 102,
+   "heat_sum": 103,
    "min_rank": 1,
    "score": 1.1,
    "source_count": 1,
-   "rank": 5
+   "rank": 6
   },
   {
    "title": "cathrynlavery/diagram-design",
@@ -195,7 +231,7 @@
    "min_rank": 1,
    "score": 1.1,
    "source_count": 1,
-   "rank": 6
+   "rank": 7
   },
   {
    "title": "普京首次登上俄日争议岛屿",
@@ -206,7 +242,7 @@
      "title": "普京首次登上俄日争议岛屿",
      "url": "https://www.baidu.com/s?wd=普京首次登上俄日争议岛屿",
      "rank": 14,
-     "heat": 6660985,
+     "heat": 6666789,
      "desc": "",
      "tags": [],
      "extra": {}
@@ -214,9 +250,9 @@
     {
      "source": "toutiao",
      "title": "普京首次登上俄日争议岛屿",
-     "url": "https://www.toutiao.com/trending/7673075229438427190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673075229438427190%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%99%AE%E4%BA%AC%E9%A6%96%E6%AC%A1%E7%99%BB%E4%B8%8A%E4%BF%84%E6%97%A5%E4%BA%89%E8%AE%AE%E5%B2%9B%E5%B1%BF%22%7D&rank=&style_id=40132&topic_id=7673075229438427190",
+     "url": "https://www.toutiao.com/trending/7673075229438427190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673075229438427190%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%99%AE%E4%BA%AC%E9%A6%96%E6%AC%A1%E7%99%BB%E4%B8%8A%E4%BF%84%E6%97%A5%E4%BA%89%E8%AE%AE%E5%B2%9B%E5%B1%BF%22%7D&rank=&style_id=40132&topic_id=7673075229438427190",
      "rank": 2,
-     "heat": 74946988,
+     "heat": 75157201,
      "desc": "hot",
      "tags": [],
      "extra": {}
@@ -227,11 +263,11 @@
     "toutiao"
    ],
    "rank_sum": 0.6857142857142857,
-   "heat_sum": 81607973,
+   "heat_sum": 81823990,
    "min_rank": 2,
    "score": 1.0286,
    "source_count": 2,
-   "rank": 7
+   "rank": 8
   },
   {
    "title": "DeepSeek V4 Pro 0813",
@@ -256,7 +292,7 @@
    "min_rank": 1,
    "score": 1.0,
    "source_count": 1,
-   "rank": 8
+   "rank": 9
   },
   {
    "title": "一台安卓手机能跑AI Agent到什么程度？",
@@ -267,7 +303,7 @@
      "title": "一台安卓手机能跑AI Agent到什么程度？",
      "url": "https://blog.csdn.net/qq_61024956/article/details/163665196",
      "rank": 1,
-     "heat": 10882,
+     "heat": 10883,
      "desc": "27评论 · 26收藏",
      "tags": [],
      "extra": {}
@@ -277,11 +313,11 @@
     "csdn"
    ],
    "rank_sum": 1.0,
-   "heat_sum": 10882,
+   "heat_sum": 10883,
    "min_rank": 1,
    "score": 1.0,
    "source_count": 1,
-   "rank": 9
+   "rank": 10
   },
   {
    "title": "新规来了：禁止在居民楼开油烟餐饮",
@@ -292,7 +328,7 @@
      "title": "新规来了：禁止在居民楼开油烟餐饮",
      "url": "https://www.baidu.com/s?wd=新规来了：禁止在居民楼开油烟餐饮",
      "rank": 7,
-     "heat": 7331457,
+     "heat": 7328024,
      "desc": "",
      "tags": [],
      "extra": {}
@@ -300,9 +336,9 @@
     {
      "source": "toutiao",
      "title": "新规：禁止在居民楼开油烟餐饮",
-     "url": "https://www.toutiao.com/trending/7672900424688779318/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672900424688779318%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%96%B0%E8%A7%84%EF%BC%9A%E7%A6%81%E6%AD%A2%E5%9C%A8%E5%B1%85%E6%B0%91%E6%A5%BC%E5%BC%80%E6%B2%B9%E7%83%9F%E9%A4%90%E9%A5%AE%22%7D&rank=&style_id=40132&topic_id=7672900424688779318",
+     "url": "https://www.toutiao.com/trending/7672900424688779318/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672900424688779318%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%96%B0%E8%A7%84%EF%BC%9A%E7%A6%81%E6%AD%A2%E5%9C%A8%E5%B1%85%E6%B0%91%E6%A5%BC%E5%BC%80%E6%B2%B9%E7%83%9F%E9%A4%90%E9%A5%AE%22%7D&rank=&style_id=40132&topic_id=7672900424688779318",
      "rank": 4,
-     "heat": 61361403,
+     "heat": 61533511,
      "desc": "",
      "tags": [],
      "extra": {}
@@ -313,11 +349,11 @@
     "toutiao"
    ],
    "rank_sum": 0.4714285714285714,
-   "heat_sum": 68692860,
+   "heat_sum": 68861535,
    "min_rank": 4,
    "score": 0.7071,
    "source_count": 2,
-   "rank": 10
+   "rank": 11
   },
   {
    "title": "情侣懒得拍婚纱照交给豆包",
@@ -328,7 +364,7 @@
      "title": "情侣懒得拍婚纱照交给豆包",
      "url": "https://s.weibo.com/weibo?q=%E6%83%85%E4%BE%A3%E6%87%92%E5%BE%97%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E4%BA%A4%E7%BB%99%E8%B1%86%E5%8C%85",
      "rank": 2,
-     "heat": 966363,
+     "heat": 1000732,
      "desc": "",
      "tags": [],
      "extra": {}
@@ -338,11 +374,11 @@
     "weibo"
    ],
    "rank_sum": 0.7,
-   "heat_sum": 966363,
+   "heat_sum": 1000732,
    "min_rank": 2,
    "score": 0.7,
    "source_count": 1,
-   "rank": 11
+   "rank": 12
   },
   {
    "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
@@ -353,7 +389,7 @@
      "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
      "url": "https://www.zhihu.com/question/2071014727606703118",
      "rank": 2,
-     "heat": 12580000,
+     "heat": 11700000,
      "desc": "官网模型编号已变更为DeepSeek-V4-Pro-0813",
      "tags": [
       "question"
@@ -365,11 +401,36 @@
     "zhihu"
    ],
    "rank_sum": 0.65,
-   "heat_sum": 12580000,
+   "heat_sum": 11700000,
    "min_rank": 2,
    "score": 0.65,
    "source_count": 1,
-   "rank": 12
+   "rank": 13
+  },
+  {
+   "title": "画面灾难,劣质动画电影上映圈钱",
+   "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357311&amp;topic_name=%E7%94%BB%E9%9D%A2%E7%81%BE%E9%9A%BE%2C%E5%8A%A3%E8%B4%A8%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E4%B8%8A%E6%98%A0%E5%9C%88%E9%92%B1",
+   "items": [
+    {
+     "source": "tieba",
+     "title": "画面灾难,劣质动画电影上映圈钱",
+     "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357311&amp;topic_name=%E7%94%BB%E9%9D%A2%E7%81%BE%E9%9A%BE%2C%E5%8A%A3%E8%B4%A8%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E4%B8%8A%E6%98%A0%E5%9C%88%E9%92%B1",
+     "rank": 2,
+     "heat": 0,
+     "desc": "这是2026年的动画？暑期档动画电影《牛来》惊呆观众，一眼粗制滥造、作画崩坏，还骗到6千多元的票房，明目张胆洗钱吗？",
+     "tags": [],
+     "extra": {}
+    }
+   ],
+   "sources": [
+    "tieba"
+   ],
+   "rank_sum": 0.55,
+   "heat_sum": 0,
+   "min_rank": 2,
+   "score": 0.55,
+   "source_count": 1,
+   "rank": 14
   },
   {
    "title": "9999 元起，荣耀 Robot Phone 手机正式发布",
@@ -394,7 +455,7 @@
    "min_rank": 2,
    "score": 0.55,
    "source_count": 1,
-   "rank": 13
+   "rank": 15
   },
   {
    "title": "八年之隔，这可能是地球上最漂亮丝滑的 Markdown 应用！",
@@ -421,7 +482,7 @@
    "min_rank": 2,
    "score": 0.55,
    "source_count": 1,
-   "rank": 14
+   "rank": 16
   },
   {
    "title": "macro-inc/macro",
@@ -446,7 +507,7 @@
    "min_rank": 2,
    "score": 0.55,
    "source_count": 1,
-   "rank": 15
+   "rank": 17
   },
   {
    "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
@@ -457,8 +518,8 @@
      "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
      "rank": 2,
-     "heat": 966,
-     "desc": "183 comments",
+     "heat": 969,
+     "desc": "184 comments",
      "tags": [],
      "extra": {}
     }
@@ -467,11 +528,11 @@
     "hackernews"
    ],
    "rank_sum": 0.5,
-   "heat_sum": 966,
+   "heat_sum": 969,
    "min_rank": 2,
    "score": 0.5,
    "source_count": 1,
-   "rank": 16
+   "rank": 18
   },
   {
    "title": "【Cookie与Session】无状态 HTTP 如何“记住“你？——从 Cookie 协议到分布式 Session",
@@ -482,8 +543,8 @@
      "title": "【Cookie与Session】无状态 HTTP 如何“记住“你？——从 Cookie 协议到分布式 Session",
      "url": "https://blog.csdn.net/2302_80243065/article/details/163692595",
      "rank": 2,
-     "heat": 1086,
-     "desc": "28评论 · 22收藏",
+     "heat": 1087,
+     "desc": "29评论 · 23收藏",
      "tags": [],
      "extra": {}
     }
@@ -492,11 +553,11 @@
     "csdn"
    ],
    "rank_sum": 0.5,
-   "heat_sum": 1086,
+   "heat_sum": 1087,
    "min_rank": 2,
    "score": 0.5,
    "source_count": 1,
-   "rank": 17
+   "rank": 19
   },
   {
    "title": "我国生态治理迈向新阶段",
@@ -507,7 +568,7 @@
      "title": "我国生态治理迈向新阶段",
      "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%94%9F%E6%80%81%E6%B2%BB%E7%90%86%E8%BF%88%E5%90%91%E6%96%B0%E9%98%B6%E6%AE%B5%23",
      "rank": 3,
-     "heat": 934480,
+     "heat": 985061,
      "desc": "",
      "tags": [],
      "extra": {}
@@ -517,11 +578,11 @@
     "weibo"
    ],
    "rank_sum": 0.4666666666666666,
-   "heat_sum": 934480,
+   "heat_sum": 985061,
    "min_rank": 3,
    "score": 0.4667,
    "source_count": 1,
-   "rank": 18
+   "rank": 20
   },
   {
    "title": "网友爆料科技圈电商圈的大厂拒收阿里系中高层，是真的吗？反映了什么问题？他们为什么被称为互联网藤壶？",
@@ -532,7 +593,7 @@
      "title": "网友爆料科技圈电商圈的大厂拒收阿里系中高层，是真的吗？反映了什么问题？他们为什么被称为互联网藤壶？",
      "url": "https://www.zhihu.com/question/2070900468931191892",
      "rank": 3,
-     "heat": 5000000,
+     "heat": 5110000,
      "desc": "近日，一则关于大厂招聘的爆料引起小编注意。 爆料称，\"听我科技圈和电商圈的一些朋友讲，现大公司招聘已经封杀阿里的中高层，凡是阿里出身的，一概不要。\" 评论区不少网友表示认同。 有网友总结：“最大的问题是阿里的思维模式已经固化了，完全没有了当",
      "tags": [
       "question"
@@ -544,11 +605,11 @@
     "zhihu"
    ],
    "rank_sum": 0.43333333333333335,
-   "heat_sum": 5000000,
+   "heat_sum": 5110000,
    "min_rank": 3,
    "score": 0.4333,
    "source_count": 1,
-   "rank": 19
+   "rank": 21
   },
   {
    "title": "白海豚凭什么浇透小半个中国",
@@ -559,7 +620,7 @@
      "title": "白海豚凭什么浇透小半个中国",
      "url": "https://www.baidu.com/s?wd=白海豚凭什么浇透小半个中国",
      "rank": 3,
-     "heat": 7711909,
+     "heat": 7714642,
      "desc": "",
      "tags": [],
      "extra": {}
@@ -569,11 +630,11 @@
     "baidu"
    ],
    "rank_sum": 0.39999999999999997,
-   "heat_sum": 7711909,
+   "heat_sum": 7714642,
    "min_rank": 3,
    "score": 0.4,
    "source_count": 1,
-   "rank": 20
+   "rank": 22
   },
   {
    "title": "新能源汽车迎来两个“首次”突破",
@@ -584,7 +645,7 @@
      "title": "新能源汽车迎来两个“首次”突破",
      "url": "https://www.toutiao.com/article/7673107114570662415",
      "rank": 3,
-     "heat": 67814839,
+     "heat": 68005047,
      "desc": "",
      "tags": [],
      "extra": {}
@@ -594,11 +655,36 @@
     "toutiao"
    ],
    "rank_sum": 0.39999999999999997,
-   "heat_sum": 67814839,
+   "heat_sum": 68005047,
    "min_rank": 3,
    "score": 0.4,
    "source_count": 1,
-   "rank": 21
+   "rank": 23
+  },
+  {
+   "title": "赔光3亿积蓄,邹市明重返拳台",
+   "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357326&amp;topic_name=%E8%B5%94%E5%85%893%E4%BA%BF%E7%A7%AF%E8%93%84%2C%E9%82%B9%E5%B8%82%E6%98%8E%E9%87%8D%E8%BF%94%E6%8B%B3%E5%8F%B0",
+   "items": [
+    {
+     "source": "tieba",
+     "title": "赔光3亿积蓄,邹市明重返拳台",
+     "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357326&amp;topic_name=%E8%B5%94%E5%85%893%E4%BA%BF%E7%A7%AF%E8%93%84%2C%E9%82%B9%E5%B8%82%E6%98%8E%E9%87%8D%E8%BF%94%E6%8B%B3%E5%8F%B0",
+     "rank": 3,
+     "heat": 0,
+     "desc": "3亿积蓄彻底清零，邹市明突然宣布年底重返职业拳台，笑称这次复出是听了老婆的话要再支棱一次。",
+     "tags": [],
+     "extra": {}
+    }
+   ],
+   "sources": [
+    "tieba"
+   ],
+   "rank_sum": 0.3666666666666667,
+   "heat_sum": 0,
+   "min_rank": 3,
+   "score": 0.3667,
+   "source_count": 1,
+   "rank": 24
   },
   {
    "title": "苹果首款折叠手机：iPhone Ultra 外屏曝光",
@@ -623,7 +709,7 @@
    "min_rank": 3,
    "score": 0.3667,
    "source_count": 1,
-   "rank": 22
+   "rank": 25
   },
   {
    "title": "看到 AI 让 Linux 变得真正可用了帖子，想问下现在最推荐的是 Linux 发行版是哪个呢",
@@ -650,7 +736,7 @@
    "min_rank": 3,
    "score": 0.3667,
    "source_count": 1,
-   "rank": 23
+   "rank": 26
   },
   {
    "title": "semantica-agi/semantica",
@@ -675,7 +761,7 @@
    "min_rank": 3,
    "score": 0.3667,
    "source_count": 1,
-   "rank": 24
+   "rank": 27
   },
   {
    "title": "生理性喜欢是很可怕的一件事",
@@ -686,7 +772,7 @@
      "title": "生理性喜欢是很可怕的一件事",
      "url": "https://s.weibo.com/weibo?q=%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E6%98%AF%E5%BE%88%E5%8F%AF%E6%80%95%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B",
      "rank": 4,
-     "heat": 933349,
+     "heat": 984466,
      "desc": "新",
      "tags": [],
      "extra": {}
@@ -696,23 +782,23 @@
     "weibo"
    ],
    "rank_sum": 0.35,
-   "heat_sum": 933349,
+   "heat_sum": 984466,
    "min_rank": 4,
    "score": 0.35,
    "source_count": 1,
-   "rank": 25
+   "rank": 28
   },
   {
-   "title": "Delta",
-   "url": "https://zed.dev/blog/introducing-delta",
+   "title": "Mushroom behind 'tiny people' hallucinations identified",
+   "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
    "items": [
     {
      "source": "hackernews",
-     "title": "Delta",
-     "url": "https://zed.dev/blog/introducing-delta",
+     "title": "Mushroom behind 'tiny people' hallucinations identified",
+     "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
      "rank": 3,
-     "heat": 508,
-     "desc": "177 comments",
+     "heat": 65,
+     "desc": "31 comments",
      "tags": [],
      "extra": {}
     }
@@ -721,11 +807,11 @@
     "hackernews"
    ],
    "rank_sum": 0.3333333333333333,
-   "heat_sum": 508,
+   "heat_sum": 65,
    "min_rank": 3,
    "score": 0.3333,
    "source_count": 1,
-   "rank": 26
+   "rank": 29
   },
   {
    "title": "CentOS部署Kafka：ZooKeeper启动、消息测试与远程调试",
@@ -736,7 +822,7 @@
      "title": "CentOS部署Kafka：ZooKeeper启动、消息测试与远程调试",
      "url": "https://blog.csdn.net/SDFsoul/article/details/163671162",
      "rank": 3,
-     "heat": 16801,
+     "heat": 16834,
      "desc": "6评论 · 8收藏",
      "tags": [],
      "extra": {}
@@ -746,11 +832,11 @@
     "csdn"
    ],
    "rank_sum": 0.3333333333333333,
-   "heat_sum": 16801,
+   "heat_sum": 16834,
    "min_rank": 3,
    "score": 0.3333,
    "source_count": 1,
-   "rank": 27
+   "rank": 30
   },
   {
    "title": "货拉拉司机中途加价被拒，带货跑 600 公里外，平台介入后仍拒不归还，怎么回事？暴露出平台哪些问题？",
@@ -761,7 +847,7 @@
      "title": "货拉拉司机中途加价被拒，带货跑 600 公里外，平台介入后仍拒不归还，怎么回事？暴露出平台哪些问题？",
      "url": "https://www.zhihu.com/question/2070902073780953324",
      "rank": 4,
-     "heat": 4910000,
+     "heat": 4940000,
      "desc": "因为突然提出加价400元没被接受，货拉拉司机竟然将数万元的货物拉到了600多公里外的山东省枣庄市滕州市，还拍视频进一步索要所谓的压车费、仓储费… 7月中旬，消费者袁女士本想把货从上海运到莫干山，不想却遭遇了以上糟心事，连续奔走了近1个月也没",
      "tags": [
       "question"
@@ -773,11 +859,11 @@
     "zhihu"
    ],
    "rank_sum": 0.325,
-   "heat_sum": 4910000,
+   "heat_sum": 4940000,
    "min_rank": 4,
    "score": 0.325,
    "source_count": 1,
-   "rank": 28
+   "rank": 31
   },
   {
    "title": "5年10万亿元消费增量目标怎样实现",
@@ -788,7 +874,7 @@
      "title": "5年10万亿元消费增量目标怎样实现",
      "url": "https://www.baidu.com/s?wd=5年10万亿元消费增量目标怎样实现",
      "rank": 4,
-     "heat": 7617864,
+     "heat": 7616736,
      "desc": "",
      "tags": [],
      "extra": {}
@@ -798,47 +884,11 @@
     "baidu"
    ],
    "rank_sum": 0.3,
-   "heat_sum": 7617864,
+   "heat_sum": 7616736,
    "min_rank": 4,
    "score": 0.3,
    "source_count": 1,
-   "rank": 29
-  },
-  {
-   "title": "美国老师崩溃痛哭：高中生不会读写",
-   "url": "https://www.baidu.com/s?wd=美国老师崩溃痛哭：高中生不会读写",
-   "items": [
-    {
-     "source": "baidu",
-     "title": "美国老师崩溃痛哭：高中生不会读写",
-     "url": "https://www.baidu.com/s?wd=美国老师崩溃痛哭：高中生不会读写",
-     "rank": 20,
-     "heat": 6092150,
-     "desc": "",
-     "tags": [],
-     "extra": {}
-    },
-    {
-     "source": "toutiao",
-     "title": "美国老师崩溃痛哭：高中生不会读写",
-     "url": "https://www.toutiao.com/trending/7673322961486495780/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673322961486495780%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E8%80%81%E5%B8%88%E5%B4%A9%E6%BA%83%E7%97%9B%E5%93%AD%EF%BC%9A%E9%AB%98%E4%B8%AD%E7%94%9F%E4%B8%8D%E4%BC%9A%E8%AF%BB%E5%86%99%22%7D&rank=&style_id=40132&topic_id=7673322961486495780",
-     "rank": 9,
-     "heat": 37217572,
-     "desc": "onSite",
-     "tags": [],
-     "extra": {}
-    }
-   ],
-   "sources": [
-    "baidu",
-    "toutiao"
-   ],
-   "rank_sum": 0.19333333333333333,
-   "heat_sum": 43309722,
-   "min_rank": 9,
-   "score": 0.29,
-   "source_count": 2,
-   "rank": 30
+   "rank": 32
   },
   {
    "title": "gap一年会失去什么",
@@ -849,7 +899,7 @@
      "title": "gap一年会失去什么",
      "url": "https://s.weibo.com/weibo?q=gap%E4%B8%80%E5%B9%B4%E4%BC%9A%E5%A4%B1%E5%8E%BB%E4%BB%80%E4%B9%88",
      "rank": 5,
-     "heat": 915459,
+     "heat": 983784,
      "desc": "新",
      "tags": [],
      "extra": {}
@@ -859,11 +909,36 @@
     "weibo"
    ],
    "rank_sum": 0.27999999999999997,
-   "heat_sum": 915459,
+   "heat_sum": 983784,
    "min_rank": 5,
    "score": 0.28,
    "source_count": 1,
-   "rank": 31
+   "rank": 33
+  },
+  {
+   "title": "熊灾泛滥,日本餐厅卖炖熊掌",
+   "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357328&amp;topic_name=%E7%86%8A%E7%81%BE%E6%B3%9B%E6%BB%A5%2C%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%8D%96%E7%82%96%E7%86%8A%E6%8E%8C",
+   "items": [
+    {
+     "source": "tieba",
+     "title": "熊灾泛滥,日本餐厅卖炖熊掌",
+     "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357328&amp;topic_name=%E7%86%8A%E7%81%BE%E6%B3%9B%E6%BB%A5%2C%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%8D%96%E7%82%96%E7%86%8A%E6%8E%8C",
+     "rank": 4,
+     "heat": 0,
+     "desc": "日本熊灾泛滥，东京新荣记直接推出鲍鱼炖熊掌料理，熊掌成招牌菜了。",
+     "tags": [],
+     "extra": {}
+    }
+   ],
+   "sources": [
+    "tieba"
+   ],
+   "rank_sum": 0.275,
+   "heat_sum": 0,
+   "min_rank": 4,
+   "score": 0.275,
+   "source_count": 1,
+   "rank": 34
   },
   {
    "title": "小米澎湃 HyperOS 4 系统蓄势待发，REDMI 产品经理胡馨心透露“在路上了”",
@@ -888,21 +963,21 @@
    "min_rank": 4,
    "score": 0.275,
    "source_count": 1,
-   "rank": 32
+   "rank": 35
   },
   {
-   "title": "不到一个小时后重置，快蹬",
-   "url": "https://www.v2ex.com/t/1234001",
+   "title": "秋招工作是真难找啊，试了很多路子，想听点建议。",
+   "url": "https://www.v2ex.com/t/1234077",
    "items": [
     {
      "source": "v2ex",
-     "title": "不到一个小时后重置，快蹬",
-     "url": "https://www.v2ex.com/t/1234001",
+     "title": "秋招工作是真难找啊，试了很多路子，想听点建议。",
+     "url": "https://www.v2ex.com/t/1234077",
      "rank": 4,
-     "heat": 69,
-     "desc": "https://x.com/thsottiaux/status/2087706104814023111?s=46&amp;t=FS3N8dQNaOIMcqqIXdQXsA",
+     "heat": 72,
+     "desc": "我的简历： https://y06c8e8us2nknqg9.public.blob.vercel-storage.com/resumes/jie_resume_chinese.pdf 主页：jingcjie.top 我能想到的公司全都投了",
      "tags": [
-      "OpenAI"
+      "职场话题"
      ],
      "extra": {}
     }
@@ -911,11 +986,11 @@
     "v2ex"
    ],
    "rank_sum": 0.275,
-   "heat_sum": 69,
+   "heat_sum": 72,
    "min_rank": 4,
    "score": 0.275,
    "source_count": 1,
-   "rank": 33
+   "rank": 36
   },
   {
    "title": "stablyai/orca",
@@ -940,7 +1015,7 @@
    "min_rank": 4,
    "score": 0.275,
    "source_count": 1,
-   "rank": 34
+   "rank": 37
   },
   {
    "title": "为什么过去都说鱼翅和鲍鱼是顶级菜肴，而现在却很少人提了？",
@@ -951,7 +1026,7 @@
      "title": "为什么过去都说鱼翅和鲍鱼是顶级菜肴，而现在却很少人提了？",
      "url": "https://www.zhihu.com/question/2069876191474012892",
      "rank": 5,
-     "heat": 2230000,
+     "heat": 2240000,
      "desc": "",
      "tags": [
       "question"
@@ -963,23 +1038,23 @@
     "zhihu"
    ],
    "rank_sum": 0.26,
-   "heat_sum": 2230000,
+   "heat_sum": 2240000,
    "min_rank": 5,
    "score": 0.26,
    "source_count": 1,
-   "rank": 35
+   "rank": 38
   },
   {
-   "title": "Mushroom behind 'tiny people' hallucinations identified",
-   "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
+   "title": "Delta",
+   "url": "https://zed.dev/blog/introducing-delta",
    "items": [
     {
      "source": "hackernews",
-     "title": "Mushroom behind 'tiny people' hallucinations identified",
-     "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
+     "title": "Delta",
+     "url": "https://zed.dev/blog/introducing-delta",
      "rank": 4,
-     "heat": 62,
-     "desc": "28 comments",
+     "heat": 510,
+     "desc": "178 comments",
      "tags": [],
      "extra": {}
     }
@@ -988,11 +1063,11 @@
     "hackernews"
    ],
    "rank_sum": 0.25,
-   "heat_sum": 62,
+   "heat_sum": 510,
    "min_rank": 4,
    "score": 0.25,
    "source_count": 1,
-   "rank": 36
+   "rank": 39
   },
   {
    "title": "SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测",
@@ -1003,7 +1078,7 @@
      "title": "SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测",
      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163695754",
      "rank": 4,
-     "heat": 9738,
+     "heat": 9775,
      "desc": "38评论 · 41收藏",
      "tags": [],
      "extra": {}
@@ -1013,11 +1088,11 @@
     "csdn"
    ],
    "rank_sum": 0.25,
-   "heat_sum": 9738,
+   "heat_sum": 9775,
    "min_rank": 4,
    "score": 0.25,
    "source_count": 1,
-   "rank": 37
+   "rank": 40
   },
   {
    "title": "73岁奶奶将成中国首批太空游客",
@@ -1028,7 +1103,7 @@
      "title": "73岁奶奶将成中国首批太空游客",
      "url": "https://www.baidu.com/s?wd=73岁奶奶将成中国首批太空游客",
      "rank": 5,
-     "heat": 7522964,
+     "heat": 7519732,
      "desc": "",
      "tags": [],
      "extra": {}
@@ -1038,22 +1113,22 @@
     "baidu"
    ],
    "rank_sum": 0.24,
-   "heat_sum": 7522964,
+   "heat_sum": 7519732,
    "min_rank": 5,
    "score": 0.24,
    "source_count": 1,
-   "rank": 38
+   "rank": 41
   },
   {
    "title": "“两弹一星”元勋王希季逝世",
-   "url": "https://www.toutiao.com/trending/7673368453977214515/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673368453977214515%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E2%80%9C%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E2%80%9D%E5%85%83%E5%8B%8B%E7%8E%8B%E5%B8%8C%E5%AD%A3%E9%80%9D%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7673368453977214515",
+   "url": "https://www.toutiao.com/trending/7673368453977214515/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673368453977214515%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E2%80%9C%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E2%80%9D%E5%85%83%E5%8B%8B%E7%8E%8B%E5%B8%8C%E5%AD%A3%E9%80%9D%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7673368453977214515",
    "items": [
     {
      "source": "toutiao",
      "title": "“两弹一星”元勋王希季逝世",
-     "url": "https://www.toutiao.com/trending/7673368453977214515/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673368453977214515%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E2%80%9C%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E2%80%9D%E5%85%83%E5%8B%8B%E7%8E%8B%E5%B8%8C%E5%AD%A3%E9%80%9D%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7673368453977214515",
+     "url": "https://www.toutiao.com/trending/7673368453977214515/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673368453977214515%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E2%80%9C%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E2%80%9D%E5%85%83%E5%8B%8B%E7%8E%8B%E5%B8%8C%E5%AD%A3%E9%80%9D%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7673368453977214515",
      "rank": 5,
-     "heat": 55522094,
+     "heat": 55677823,
      "desc": "hot",
      "tags": [],
      "extra": {}
@@ -1063,11 +1138,11 @@
     "toutiao"
    ],
    "rank_sum": 0.24,
-   "heat_sum": 55522094,
+   "heat_sum": 55677823,
    "min_rank": 5,
    "score": 0.24,
    "source_count": 1,
-   "rank": 39
+   "rank": 42
   },
   {
    "title": "歌手节目组联系耳帝",
@@ -1078,7 +1153,7 @@
      "title": "歌手节目组联系耳帝",
      "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E8%8A%82%E7%9B%AE%E7%BB%84%E8%81%94%E7%B3%BB%E8%80%B3%E5%B8%9D",
      "rank": 6,
-     "heat": 846154,
+     "heat": 917740,
      "desc": "新",
      "tags": [],
      "extra": {}
@@ -1088,11 +1163,11 @@
     "weibo"
    ],
    "rank_sum": 0.2333333333333333,
-   "heat_sum": 846154,
+   "heat_sum": 917740,
    "min_rank": 6,
    "score": 0.2333,
    "source_count": 1,
-   "rank": 40
+   "rank": 43
   },
   {
    "title": "重罚台风请假员工公司多年0人参保",
@@ -1102,8 +1177,8 @@
      "source": "weibo",
      "title": "重罚台风请假员工公司多年0人参保",
      "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E7%BD%9A%E5%8F%B0%E9%A3%8E%E8%AF%B7%E5%81%87%E5%91%98%E5%B7%A5%E5%85%AC%E5%8F%B8%E5%A4%9A%E5%B9%B40%E4%BA%BA%E5%8F%82%E4%BF%9D%23",
-     "rank": 17,
-     "heat": 587112,
+     "rank": 16,
+     "heat": 295961,
      "desc": "",
      "tags": [],
      "extra": {}
@@ -1113,7 +1188,7 @@
      "title": "重罚台风请假员工公司多年0人参保",
      "url": "https://www.baidu.com/s?wd=重罚台风请假员工公司多年0人参保",
      "rank": 18,
-     "heat": 6278227,
+     "heat": 6278398,
      "desc": "",
      "tags": [],
      "extra": {}
@@ -1123,12 +1198,37 @@
     "baidu",
     "weibo"
    ],
-   "rank_sum": 0.14901960784313725,
-   "heat_sum": 6865339,
-   "min_rank": 17,
-   "score": 0.2235,
+   "rank_sum": 0.15416666666666667,
+   "heat_sum": 6574359,
+   "min_rank": 16,
+   "score": 0.2313,
    "source_count": 2,
-   "rank": 41
+   "rank": 44
+  },
+  {
+   "title": "圣枪首战告负,没Bin真不行",
+   "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357288&amp;topic_name=%E5%9C%A3%E6%9E%AA%E9%A6%96%E6%88%98%E5%91%8A%E8%B4%9F%2C%E6%B2%A1Bin%E7%9C%9F%E4%B8%8D%E8%A1%8C",
+   "items": [
+    {
+     "source": "tieba",
+     "title": "圣枪首战告负,没Bin真不行",
+     "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357288&amp;topic_name=%E5%9C%A3%E6%9E%AA%E9%A6%96%E6%88%98%E5%91%8A%E8%B4%9F%2C%E6%B2%A1Bin%E7%9C%9F%E4%B8%8D%E8%A1%8C",
+     "rank": 5,
+     "heat": 0,
+     "desc": "BLG惨遭JDG让一追二，Flandre首秀发挥平庸。粉丝不舒服：Bin哥我们想你了。",
+     "tags": [],
+     "extra": {}
+    }
+   ],
+   "sources": [
+    "tieba"
+   ],
+   "rank_sum": 0.22000000000000003,
+   "heat_sum": 0,
+   "min_rank": 5,
+   "score": 0.22,
+   "source_count": 1,
+   "rank": 45
   },
   {
    "title": "小米卢伟冰：决定不开澎湃 OS 4 发布会，今天上午 11 点首批 Beta 版机型开启招募",
@@ -1153,21 +1253,21 @@
    "min_rank": 5,
    "score": 0.22,
    "source_count": 1,
-   "rank": 42
+   "rank": 46
   },
   {
-   "title": "秋招工作是真难找啊，试了很多路子，想听点建议。",
-   "url": "https://www.v2ex.com/t/1234077",
+   "title": "不到一个小时后重置，快蹬",
+   "url": "https://www.v2ex.com/t/1234001",
    "items": [
     {
      "source": "v2ex",
-     "title": "秋招工作是真难找啊，试了很多路子，想听点建议。",
-     "url": "https://www.v2ex.com/t/1234077",
+     "title": "不到一个小时后重置，快蹬",
+     "url": "https://www.v2ex.com/t/1234001",
      "rank": 5,
-     "heat": 68,
-     "desc": "我的简历： https://y06c8e8us2nknqg9.public.blob.vercel-storage.com/resumes/jie_resume_chinese.pdf 主页：jingcjie.top 我能想到的公司全都投了",
+     "heat": 69,
+     "desc": "https://x.com/thsottiaux/status/2087706104814023111?s=46&amp;t=FS3N8dQNaOIMcqqIXdQXsA",
      "tags": [
-      "职场话题"
+      "OpenAI"
      ],
      "extra": {}
     }
@@ -1176,11 +1276,11 @@
     "v2ex"
    ],
    "rank_sum": 0.22000000000000003,
-   "heat_sum": 68,
+   "heat_sum": 69,
    "min_rank": 5,
    "score": 0.22,
    "source_count": 1,
-   "rank": 43
+   "rank": 47
   },
   {
    "title": "msitarzewski/agency-agents",
@@ -1205,7 +1305,7 @@
    "min_rank": 5,
    "score": 0.22,
    "source_count": 1,
-   "rank": 44
+   "rank": 48
   },
   {
    "title": "苹果被曝正测试长鑫存储芯片，将用于在中国市场销售的设备，双方最终达成合作的可能性有多大？",
@@ -1216,7 +1316,7 @@
      "title": "苹果被曝正测试长鑫存储芯片，将用于在中国市场销售的设备，双方最终达成合作的可能性有多大？",
      "url": "https://www.zhihu.com/question/2070073820929419121",
      "rank": 6,
-     "heat": 1670000,
+     "heat": 1690000,
      "desc": "据《华尔街日报》8月9日报道，苹果公司正在其iPhone和MacBook等产品线中测试长鑫存储（CXMT）的存储芯片，以缓解因人工智能热潮引发的内存短缺问题。报道援引知情人士称，苹果公司已与中国最大的芯片制造商长鑫存储就零部件供应展开初步洽",
      "tags": [
       "question"
@@ -1228,11 +1328,11 @@
     "zhihu"
    ],
    "rank_sum": 0.21666666666666667,
-   "heat_sum": 1670000,
+   "heat_sum": 1690000,
    "min_rank": 6,
    "score": 0.2167,
    "source_count": 1,
-   "rank": 45
+   "rank": 49
   },
   {
    "title": "学生兼职送外卖一个月倒欠公司200多",
@@ -1243,7 +1343,7 @@
      "title": "学生兼职送外卖一个月倒欠公司200多",
      "url": "https://www.baidu.com/s?wd=学生兼职送外卖一个月倒欠公司200多",
      "rank": 17,
-     "heat": 6379396,
+     "heat": 6381445,
      "desc": "",
      "tags": [],
      "extra": {}
@@ -1251,9 +1351,9 @@
     {
      "source": "toutiao",
      "title": "学生兼职送外卖一个月倒欠公司200多",
-     "url": "https://www.toutiao.com/trending/7673329254230163499/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673329254230163499%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AD%A6%E7%94%9F%E5%85%BC%E8%81%8C%E9%80%81%E5%A4%96%E5%8D%96%E4%B8%80%E4%B8%AA%E6%9C%88%E5%80%92%E6%AC%A0%E5%85%AC%E5%8F%B8200%E5%A4%9A%22%7D&rank=&style_id=40132&topic_id=7673329254230163499",
+     "url": "https://www.toutiao.com/trending/7673329254230163499/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673329254230163499%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AD%A6%E7%94%9F%E5%85%BC%E8%81%8C%E9%80%81%E5%A4%96%E5%8D%96%E4%B8%80%E4%B8%AA%E6%9C%88%E5%80%92%E6%AC%A0%E5%85%AC%E5%8F%B8200%E5%A4%9A%22%7D&rank=&style_id=40132&topic_id=7673329254230163499",
      "rank": 17,
-     "heat": 16722933,
+     "heat": 16769838,
      "desc": "",
      "tags": [],
      "extra": {}
@@ -1264,110 +1364,10 @@
     "toutiao"
    ],
    "rank_sum": 0.1411764705882353,
-   "heat_sum": 23102329,
+   "heat_sum": 23151283,
    "min_rank": 17,
    "score": 0.2118,
    "source_count": 2,
-   "rank": 46
-  },
-  {
-   "title": "胖东来 房租翻倍",
-   "url": "https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5%20%E6%88%BF%E7%A7%9F%E7%BF%BB%E5%80%8D",
-   "items": [
-    {
-     "source": "weibo",
-     "title": "胖东来 房租翻倍",
-     "url": "https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5%20%E6%88%BF%E7%A7%9F%E7%BF%BB%E5%80%8D",
-     "rank": 7,
-     "heat": 762427,
-     "desc": "新",
-     "tags": [],
-     "extra": {}
-    }
-   ],
-   "sources": [
-    "weibo"
-   ],
-   "rank_sum": 0.19999999999999998,
-   "heat_sum": 762427,
-   "min_rank": 7,
-   "score": 0.2,
-   "source_count": 1,
-   "rank": 47
-  },
-  {
-   "title": "日本“草莓仙人”挑衅中国人",
-   "url": "https://www.baidu.com/s?wd=日本“草莓仙人”挑衅中国人",
-   "items": [
-    {
-     "source": "baidu",
-     "title": "日本“草莓仙人”挑衅中国人",
-     "url": "https://www.baidu.com/s?wd=日本“草莓仙人”挑衅中国人",
-     "rank": 6,
-     "heat": 7427585,
-     "desc": "",
-     "tags": [],
-     "extra": {}
-    }
-   ],
-   "sources": [
-    "baidu"
-   ],
-   "rank_sum": 0.19999999999999998,
-   "heat_sum": 7427585,
-   "min_rank": 6,
-   "score": 0.2,
-   "source_count": 1,
-   "rank": 48
-  },
-  {
-   "title": "手机价格全线暴涨",
-   "url": "https://www.toutiao.com/trending/7673341653165162550/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673341653165162550%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E5%85%A8%E7%BA%BF%E6%9A%B4%E6%B6%A8%22%7D&rank=&style_id=40132&topic_id=7673341653165162550",
-   "items": [
-    {
-     "source": "toutiao",
-     "title": "手机价格全线暴涨",
-     "url": "https://www.toutiao.com/trending/7673341653165162550/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673341653165162550%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E5%85%A8%E7%BA%BF%E6%9A%B4%E6%B6%A8%22%7D&rank=&style_id=40132&topic_id=7673341653165162550",
-     "rank": 6,
-     "heat": 50238468,
-     "desc": "new",
-     "tags": [],
-     "extra": {}
-    }
-   ],
-   "sources": [
-    "toutiao"
-   ],
-   "rank_sum": 0.19999999999999998,
-   "heat_sum": 50238468,
-   "min_rank": 6,
-   "score": 0.2,
-   "source_count": 1,
-   "rank": 49
-  },
-  {
-   "title": "Qwen3.8-2.4T",
-   "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-   "items": [
-    {
-     "source": "hackernews",
-     "title": "Qwen3.8-2.4T",
-     "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-     "rank": 5,
-     "heat": 582,
-     "desc": "135 comments",
-     "tags": [],
-     "extra": {}
-    }
-   ],
-   "sources": [
-    "hackernews"
-   ],
-   "rank_sum": 0.2,
-   "heat_sum": 582,
-   "min_rank": 5,
-   "score": 0.2,
-   "source_count": 1,
    "rank": 50
   }
  ],
@@ -1378,7 +1378,7 @@
     "title": "朱镕基同志逝世",
     "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23",
     "rank": 1,
-    "heat": 1002725,
+    "heat": 1002705,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1388,7 +1388,7 @@
     "title": "情侣懒得拍婚纱照交给豆包",
     "url": "https://s.weibo.com/weibo?q=%E6%83%85%E4%BE%A3%E6%87%92%E5%BE%97%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E4%BA%A4%E7%BB%99%E8%B1%86%E5%8C%85",
     "rank": 2,
-    "heat": 966363,
+    "heat": 1000732,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1398,7 +1398,7 @@
     "title": "我国生态治理迈向新阶段",
     "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%94%9F%E6%80%81%E6%B2%BB%E7%90%86%E8%BF%88%E5%90%91%E6%96%B0%E9%98%B6%E6%AE%B5%23",
     "rank": 3,
-    "heat": 934480,
+    "heat": 985061,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1408,7 +1408,7 @@
     "title": "生理性喜欢是很可怕的一件事",
     "url": "https://s.weibo.com/weibo?q=%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E6%98%AF%E5%BE%88%E5%8F%AF%E6%80%95%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B",
     "rank": 4,
-    "heat": 933349,
+    "heat": 984466,
     "desc": "新",
     "tags": [],
     "extra": {}
@@ -1418,7 +1418,7 @@
     "title": "gap一年会失去什么",
     "url": "https://s.weibo.com/weibo?q=gap%E4%B8%80%E5%B9%B4%E4%BC%9A%E5%A4%B1%E5%8E%BB%E4%BB%80%E4%B9%88",
     "rank": 5,
-    "heat": 915459,
+    "heat": 983784,
     "desc": "新",
     "tags": [],
     "extra": {}
@@ -1428,7 +1428,7 @@
     "title": "歌手节目组联系耳帝",
     "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E8%8A%82%E7%9B%AE%E7%BB%84%E8%81%94%E7%B3%BB%E8%80%B3%E5%B8%9D",
     "rank": 6,
-    "heat": 846154,
+    "heat": 917740,
     "desc": "新",
     "tags": [],
     "extra": {}
@@ -1438,7 +1438,7 @@
     "title": "胖东来 房租翻倍",
     "url": "https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5%20%E6%88%BF%E7%A7%9F%E7%BF%BB%E5%80%8D",
     "rank": 7,
-    "heat": 762427,
+    "heat": 822752,
     "desc": "新",
     "tags": [],
     "extra": {}
@@ -1448,7 +1448,7 @@
     "title": "普京登岛后日本急了",
     "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%99%BB%E5%B2%9B%E5%90%8E%E6%97%A5%E6%9C%AC%E6%80%A5%E4%BA%86%23",
     "rank": 8,
-    "heat": 749604,
+    "heat": 813395,
     "desc": "新",
     "tags": [],
     "extra": {}
@@ -1458,17 +1458,17 @@
     "title": "霍仙姑就是隔世老祖",
     "url": "https://s.weibo.com/weibo?q=%23%E9%9C%8D%E4%BB%99%E5%A7%91%E5%B0%B1%E6%98%AF%E9%9A%94%E4%B8%96%E8%80%81%E7%A5%96%23",
     "rank": 9,
-    "heat": 675008,
+    "heat": 323246,
     "desc": "",
     "tags": [],
     "extra": {}
    },
    {
     "source": "weibo",
-    "title": "2026暑期最热cp",
-    "url": "https://s.weibo.com/weibo?q=%232026%E6%9A%91%E6%9C%9F%E6%9C%80%E7%83%ADcp%23",
+    "title": "TF四代五公",
+    "url": "https://s.weibo.com/weibo?q=TF%E5%9B%9B%E4%BB%A3%E4%BA%94%E5%85%AC",
     "rank": 10,
-    "heat": 669759,
+    "heat": 300602,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1478,18 +1478,8 @@
     "title": "美国渣男王水牛",
     "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%B8%A3%E7%94%B7%E7%8E%8B%E6%B0%B4%E7%89%9B",
     "rank": 11,
-    "heat": 664580,
+    "heat": 299966,
     "desc": "",
-    "tags": [],
-    "extra": {}
-   },
-   {
-    "source": "weibo",
-    "title": "浙江省博物馆就长征版画错误致歉",
-    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%9C%81%E5%8D%9A%E7%89%A9%E9%A6%86%E5%B0%B1%E9%95%BF%E5%BE%81%E7%89%88%E7%94%BB%E9%94%99%E8%AF%AF%E8%87%B4%E6%AD%89%23",
-    "rank": 12,
-    "heat": 637383,
-    "desc": "新",
     "tags": [],
     "extra": {}
    },
@@ -1497,8 +1487,8 @@
     "source": "weibo",
     "title": "曝白鹿提名金鹰奖最佳女主",
     "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%99%BD%E9%B9%BF%E6%8F%90%E5%90%8D%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%23",
-    "rank": 13,
-    "heat": 636267,
+    "rank": 12,
+    "heat": 299126,
     "desc": "新",
     "tags": [],
     "extra": {}
@@ -1507,8 +1497,8 @@
     "source": "weibo",
     "title": "姜潮麦迪娜新疆婚礼含金量太高了",
     "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E9%BA%A6%E8%BF%AA%E5%A8%9C%E6%96%B0%E7%96%86%E5%A9%9A%E7%A4%BC%E5%90%AB%E9%87%91%E9%87%8F%E5%A4%AA%E9%AB%98%E4%BA%86%23",
-    "rank": 14,
-    "heat": 635435,
+    "rank": 13,
+    "heat": 298504,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1517,8 +1507,8 @@
     "source": "weibo",
     "title": "手机壳 偷拍",
     "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%A3%B3%20%E5%81%B7%E6%8B%8D",
-    "rank": 15,
-    "heat": 625938,
+    "rank": 14,
+    "heat": 297574,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1527,8 +1517,8 @@
     "source": "weibo",
     "title": "肖战李沁五搭只有狼殿下有吻戏",
     "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9D%8E%E6%B2%81%E4%BA%94%E6%90%AD%E5%8F%AA%E6%9C%89%E7%8B%BC%E6%AE%BF%E4%B8%8B%E6%9C%89%E5%90%BB%E6%88%8F%23",
-    "rank": 16,
-    "heat": 607738,
+    "rank": 15,
+    "heat": 296964,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1537,8 +1527,8 @@
     "source": "weibo",
     "title": "重罚台风请假员工公司多年0人参保",
     "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E7%BD%9A%E5%8F%B0%E9%A3%8E%E8%AF%B7%E5%81%87%E5%91%98%E5%B7%A5%E5%85%AC%E5%8F%B8%E5%A4%9A%E5%B9%B40%E4%BA%BA%E5%8F%82%E4%BF%9D%23",
-    "rank": 17,
-    "heat": 587112,
+    "rank": 16,
+    "heat": 295961,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1547,8 +1537,8 @@
     "source": "weibo",
     "title": "婚外胚胎案再添新诉讼",
     "url": "https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%E5%86%8D%E6%B7%BB%E6%96%B0%E8%AF%89%E8%AE%BC%23",
-    "rank": 18,
-    "heat": 447085,
+    "rank": 17,
+    "heat": 295585,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1557,19 +1547,29 @@
     "source": "weibo",
     "title": "姜潮麦迪娜婚礼的切糕能买乌市一套房",
     "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E9%BA%A6%E8%BF%AA%E5%A8%9C%E5%A9%9A%E7%A4%BC%E7%9A%84%E5%88%87%E7%B3%95%E8%83%BD%E4%B9%B0%E4%B9%8C%E5%B8%82%E4%B8%80%E5%A5%97%E6%88%BF%23",
-    "rank": 19,
-    "heat": 426163,
+    "rank": 18,
+    "heat": 294616,
     "desc": "新",
     "tags": [],
     "extra": {}
    },
    {
     "source": "weibo",
-    "title": "清华美院教授将红军画成眯眯眼",
-    "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E7%BE%8E%E9%99%A2%E6%95%99%E6%8E%88%E5%B0%86%E7%BA%A2%E5%86%9B%E7%94%BB%E6%88%90%E7%9C%AF%E7%9C%AF%E7%9C%BC",
+    "title": "花48万买事业编事没办成中间人拒退款",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B148%E4%B8%87%E4%B9%B0%E4%BA%8B%E4%B8%9A%E7%BC%96%E4%BA%8B%E6%B2%A1%E5%8A%9E%E6%88%90%E4%B8%AD%E9%97%B4%E4%BA%BA%E6%8B%92%E9%80%80%E6%AC%BE%23",
+    "rank": 19,
+    "heat": 294181,
+    "desc": "新",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "weibo",
+    "title": "Lisa金九封面",
+    "url": "https://s.weibo.com/weibo?q=%23Lisa%E9%87%91%E4%B9%9D%E5%B0%81%E9%9D%A2%23",
     "rank": 20,
-    "heat": 421802,
-    "desc": "热",
+    "heat": 292982,
+    "desc": "新",
     "tags": [],
     "extra": {}
    }
@@ -1580,7 +1580,7 @@
     "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
     "url": "https://zhuanlan.zhihu.com/p/2070933430993414087",
     "rank": 1,
-    "heat": 23820000,
+    "heat": 22760000,
     "desc": "中国共产党中央委员会、中华人民共和国全国人民代表大会常务委员会、中华人民共和国国务院、中国人民政治协商会议全国委员会沉痛宣告：中国共产党的优秀党员，久经考验的忠诚的共产主义战士，杰出的无产阶级革命家、政治家，党和国家的卓越领导人，中国共产党",
     "tags": [
      "article"
@@ -1592,7 +1592,7 @@
     "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
     "url": "https://www.zhihu.com/question/2071014727606703118",
     "rank": 2,
-    "heat": 12580000,
+    "heat": 11700000,
     "desc": "官网模型编号已变更为DeepSeek-V4-Pro-0813",
     "tags": [
      "question"
@@ -1604,7 +1604,7 @@
     "title": "网友爆料科技圈电商圈的大厂拒收阿里系中高层，是真的吗？反映了什么问题？他们为什么被称为互联网藤壶？",
     "url": "https://www.zhihu.com/question/2070900468931191892",
     "rank": 3,
-    "heat": 5000000,
+    "heat": 5110000,
     "desc": "近日，一则关于大厂招聘的爆料引起小编注意。 爆料称，\"听我科技圈和电商圈的一些朋友讲，现大公司招聘已经封杀阿里的中高层，凡是阿里出身的，一概不要。\" 评论区不少网友表示认同。 有网友总结：“最大的问题是阿里的思维模式已经固化了，完全没有了当",
     "tags": [
      "question"
@@ -1616,7 +1616,7 @@
     "title": "货拉拉司机中途加价被拒，带货跑 600 公里外，平台介入后仍拒不归还，怎么回事？暴露出平台哪些问题？",
     "url": "https://www.zhihu.com/question/2070902073780953324",
     "rank": 4,
-    "heat": 4910000,
+    "heat": 4940000,
     "desc": "因为突然提出加价400元没被接受，货拉拉司机竟然将数万元的货物拉到了600多公里外的山东省枣庄市滕州市，还拍视频进一步索要所谓的压车费、仓储费… 7月中旬，消费者袁女士本想把货从上海运到莫干山，不想却遭遇了以上糟心事，连续奔走了近1个月也没",
     "tags": [
      "question"
@@ -1628,7 +1628,7 @@
     "title": "为什么过去都说鱼翅和鲍鱼是顶级菜肴，而现在却很少人提了？",
     "url": "https://www.zhihu.com/question/2069876191474012892",
     "rank": 5,
-    "heat": 2230000,
+    "heat": 2240000,
     "desc": "",
     "tags": [
      "question"
@@ -1640,7 +1640,7 @@
     "title": "苹果被曝正测试长鑫存储芯片，将用于在中国市场销售的设备，双方最终达成合作的可能性有多大？",
     "url": "https://www.zhihu.com/question/2070073820929419121",
     "rank": 6,
-    "heat": 1670000,
+    "heat": 1690000,
     "desc": "据《华尔街日报》8月9日报道，苹果公司正在其iPhone和MacBook等产品线中测试长鑫存储（CXMT）的存储芯片，以缓解因人工智能热潮引发的内存短缺问题。报道援引知情人士称，苹果公司已与中国最大的芯片制造商长鑫存储就零部件供应展开初步洽",
     "tags": [
      "question"
@@ -1652,7 +1652,7 @@
     "title": "山西一医院实习护士晒患者隐私照，院方称将严肃处理，具体怎么回事？为什么这类事时有发生，问题出在哪？",
     "url": "https://www.zhihu.com/question/2070271590869070734",
     "rank": 7,
-    "heat": 1540000,
+    "heat": 1550000,
     "desc": "来源：山西医科大学第一医院 情况说明 针对媒体报道的“疑山西医科大学第一医院实习护士晒患者隐私照”事件，我院高度重视，立即成立专项调查组开展全面调查核实工作。经初步核查，涉事人员为在我院实习的护理学生，医院已和该学生所在学校进行沟通。 我院",
     "tags": [
      "question"
@@ -1664,7 +1664,7 @@
     "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
     "url": "https://www.zhihu.com/question/2071169289697092854",
     "rank": 8,
-    "heat": 1470000,
+    "heat": 1480000,
     "desc": "8月12日，据英国《独立报》报道，因长期在中东服役，绝望的水兵试图从美国海军“林肯”号航母跳海。 该报称：“这艘载有约5000名水兵和海军陆战队员的航母自去年11月21日起就在战区执行任务…原定于5月结束部署，但任务被延长，返航日期至今未确",
     "tags": [
      "question"
@@ -1676,7 +1676,7 @@
     "title": "网传《欢迎来龙餐馆》男主角原定为徐峥，消息靠谱吗？如果是徐峥来演的话你认为效果会比沈腾好吗？",
     "url": "https://www.zhihu.com/question/2070925244152246749",
     "rank": 9,
-    "heat": 1440000,
+    "heat": 1450000,
     "desc": "网传《欢迎来龙餐馆》原本是徐峥的“饼”确有其事，但最终沈腾接棒已成定局，且徐峥本人不仅未生嫌隙，反而公开包场力挺，大方送上祝福。 一、传闻的三大依据确凿角色名暗藏玄机：主角取名“徐福”，与2022年徐峥在文牧野导演的《奇迹·笨小孩》中客串的",
     "tags": [
      "question"
@@ -1688,7 +1688,7 @@
     "title": "为什么蚊子没有进化成像猫猫那样特别可爱的样子，让人不忍心拍死？",
     "url": "https://www.zhihu.com/question/2059374956157329909",
     "rank": 10,
-    "heat": 1420000,
+    "heat": 1430000,
     "desc": "[图片]",
     "tags": [
      "question"
@@ -1700,7 +1700,7 @@
     "title": "唐朝女人头上插那么多金钗步摇，走路不累吗，她们到底图什么？",
     "url": "https://www.zhihu.com/question/2070260620662924741",
     "rank": 11,
-    "heat": 1410000,
+    "heat": 1420000,
     "desc": "唐朝女人头上插那么多金钗步摇，走路不累，她们到底图什么？",
     "tags": [
      "question"
@@ -1712,7 +1712,7 @@
     "title": "威少（维斯布鲁克）宣布退役，结束长达 18 年的 NBA 生涯，如何评价他的职业生涯？",
     "url": "https://www.zhihu.com/question/2071116184003646639",
     "rank": 12,
-    "heat": 1410000,
+    "heat": 1420000,
     "desc": "北京时间8月13日，拉塞尔·威斯布鲁克更新了个人社媒，宣布自己将退役，结束18年的NBA生涯。 威少在个人社媒发布了一则视频，配文写道：有时候，你甚至未曾察觉，自己已见证了最后的绝唱。唯有亲历现场，方能体会那份震撼。而如今，曲终人散。 生涯",
     "tags": [
      "question"
@@ -1736,7 +1736,7 @@
     "title": "当年为加入 WTO 做出的让步，今天看来到底有多值？",
     "url": "https://www.zhihu.com/question/2070975451988587299",
     "rank": 14,
-    "heat": 1380000,
+    "heat": 1400000,
     "desc": "中国于 2001 年 12 月 11 日正式加入世界贸易组织（WTO），成为其第 143 个成员国‌，这一事件标志着中国改革开放进入历史新阶段，深度融入全球经济体系 。从 1986 年申请恢复关贸总协定缔约国地位到最终入世，中国经历了长达 ",
     "tags": [
      "question"
@@ -1745,11 +1745,11 @@
    },
    {
     "source": "zhihu",
-    "title": "如何评价 Grok4.6，有哪些亮点？",
-    "url": "https://www.zhihu.com/question/2070448386113908957",
+    "title": "《寄生虫》里的豪宅，看起来没什么东西，豪在哪里？",
+    "url": "https://www.zhihu.com/question/2070215170526279459",
     "rank": 15,
-    "heat": 1310000,
-    "desc": "马斯克旗下的人工智能公司 SpaceXAI 日前发布了新一代前沿模型 Grok 4.6，重点面向长时间运行的智能体、编程和知识工作场景，并采用更具竞争力的定价策略来降低这些工作负载的运行成本。 Grok 在第三方评测机构 Artificia",
+    "heat": 1350000,
+    "desc": "",
     "tags": [
      "question"
     ],
@@ -1760,7 +1760,7 @@
     "title": "银行能办结婚证了，天津开放首个银行网点婚姻登记处，这事只是「多一个领证地」这么简单吗？银行有什么盘算？",
     "url": "https://www.zhihu.com/question/2070960876790572338",
     "rank": 16,
-    "heat": 1310000,
+    "heat": 1340000,
     "desc": "026年8月6日，天津河西区民政局联合中国邮政储蓄银行泗水道支行，启用东海婚姻登记处·泗水道爱情主题银行服务点。 性质定位：这是全国首家设在银行网点内的婚姻登记延伸点，不是银行自己新增的业务，而是民政局与银行的合作模式。天津开放全国首家银行",
     "tags": [
      "question"
@@ -1769,11 +1769,11 @@
    },
    {
     "source": "zhihu",
-    "title": "《寄生虫》里的豪宅，看起来没什么东西，豪在哪里？",
-    "url": "https://www.zhihu.com/question/2070215170526279459",
+    "title": "如何评价 Grok4.6，有哪些亮点？",
+    "url": "https://www.zhihu.com/question/2070448386113908957",
     "rank": 17,
-    "heat": 1300000,
-    "desc": "",
+    "heat": 1320000,
+    "desc": "马斯克旗下的人工智能公司 SpaceXAI 日前发布了新一代前沿模型 Grok 4.6，重点面向长时间运行的智能体、编程和知识工作场景，并采用更具竞争力的定价策略来降低这些工作负载的运行成本。 Grok 在第三方评测机构 Artificia",
     "tags": [
      "question"
     ],
@@ -1816,13 +1816,215 @@
     "extra": {}
    }
   ],
+  "tieba": [
+   {
+    "source": "tieba",
+    "title": "仗义喜羊羊!病毒吧主火出圈",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357317&amp;topic_name=%E4%BB%97%E4%B9%89%E5%96%9C%E7%BE%8A%E7%BE%8A%21%E7%97%85%E6%AF%92%E5%90%A7%E4%B8%BB%E7%81%AB%E5%87%BA%E5%9C%88",
+    "rank": 1,
+    "heat": 0,
+    "desc": "病毒吧主无偿帮人杀毒十几年，被众多网友称为赛博华佗。有人用“行侠仗义喜羊羊”形容他，吧主直接火出圈了。",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "tieba",
+    "title": "画面灾难,劣质动画电影上映圈钱",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357311&amp;topic_name=%E7%94%BB%E9%9D%A2%E7%81%BE%E9%9A%BE%2C%E5%8A%A3%E8%B4%A8%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E4%B8%8A%E6%98%A0%E5%9C%88%E9%92%B1",
+    "rank": 2,
+    "heat": 0,
+    "desc": "这是2026年的动画？暑期档动画电影《牛来》惊呆观众，一眼粗制滥造、作画崩坏，还骗到6千多元的票房，明目张胆洗钱吗？",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "tieba",
+    "title": "赔光3亿积蓄,邹市明重返拳台",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357326&amp;topic_name=%E8%B5%94%E5%85%893%E4%BA%BF%E7%A7%AF%E8%93%84%2C%E9%82%B9%E5%B8%82%E6%98%8E%E9%87%8D%E8%BF%94%E6%8B%B3%E5%8F%B0",
+    "rank": 3,
+    "heat": 0,
+    "desc": "3亿积蓄彻底清零，邹市明突然宣布年底重返职业拳台，笑称这次复出是听了老婆的话要再支棱一次。",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "tieba",
+    "title": "熊灾泛滥,日本餐厅卖炖熊掌",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357328&amp;topic_name=%E7%86%8A%E7%81%BE%E6%B3%9B%E6%BB%A5%2C%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%8D%96%E7%82%96%E7%86%8A%E6%8E%8C",
+    "rank": 4,
+    "heat": 0,
+    "desc": "日本熊灾泛滥，东京新荣记直接推出鲍鱼炖熊掌料理，熊掌成招牌菜了。",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "tieba",
+    "title": "圣枪首战告负,没Bin真不行",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357288&amp;topic_name=%E5%9C%A3%E6%9E%AA%E9%A6%96%E6%88%98%E5%91%8A%E8%B4%9F%2C%E6%B2%A1Bin%E7%9C%9F%E4%B8%8D%E8%A1%8C",
+    "rank": 5,
+    "heat": 0,
+    "desc": "BLG惨遭JDG让一追二，Flandre首秀发挥平庸。粉丝不舒服：Bin哥我们想你了。",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "tieba",
+    "title": "影之刃零曝实机,脸模太难绷",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357194&amp;topic_name=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E6%9B%9D%E5%AE%9E%E6%9C%BA%2C%E8%84%B8%E6%A8%A1%E5%A4%AA%E9%9A%BE%E7%BB%B7",
+    "rank": 6,
+    "heat": 0,
+    "desc": "《影之刃零》放出新实机演示，演员甄子丹负责面捕，玩家吐槽脸模出戏，瞬间不想买了。",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "tieba",
+    "title": "耄耋跳大舞,景区宣传片翻车",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357312&amp;topic_name=%E8%80%84%E8%80%8B%E8%B7%B3%E5%A4%A7%E8%88%9E%2C%E6%99%AF%E5%8C%BA%E5%AE%A3%E4%BC%A0%E7%89%87%E7%BF%BB%E8%BD%A6",
+    "rank": 7,
+    "heat": 0,
+    "desc": "张家界宣传片让“耄耋”莫名跳舞，评论区集体开火：看完直接不想去了，太离谱了。",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "tieba",
+    "title": "8个月不上岸,林肯号水兵崩溃",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357319&amp;topic_name=8%E4%B8%AA%E6%9C%88%E4%B8%8D%E4%B8%8A%E5%B2%B8%2C%E6%9E%97%E8%82%AF%E5%8F%B7%E6%B0%B4%E5%85%B5%E5%B4%A9%E6%BA%83",
+    "rank": 8,
+    "heat": 0,
+    "desc": "美国林肯号原定5个月返航的时间被无限延长，现已超过8个月。多名水兵试图跳海，身心已在崩溃边缘。",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "tieba",
+    "title": "顾客餐盘喂狗,店家倒大霉",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357250&amp;topic_name=%E9%A1%BE%E5%AE%A2%E9%A4%90%E7%9B%98%E5%96%82%E7%8B%97%2C%E5%BA%97%E5%AE%B6%E5%80%92%E5%A4%A7%E9%9C%89",
+    "rank": 9,
+    "heat": 0,
+    "desc": "长沙女子无视店员劝阻，用餐盘喂狗。餐厅销毁全部餐具，10倍补偿就餐顾客。",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "tieba",
+    "title": "朱镕基同志逝世",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357224&amp;topic_name=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96",
+    "rank": 10,
+    "heat": 0,
+    "desc": "第十五届中央政治局常委，国务院原总理朱镕基去世，享年98岁。",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "tieba",
+    "title": "光速关服,AI虚拟歌姬停运",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+    "rank": 11,
+    "heat": 0,
+    "desc": "上线未足月，国内首款AI虚拟歌姬软件林离Olivia抢先版将停止运营，吧友：会有大佬做魔改版吗？",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "tieba",
+    "title": "男子不堪炸街噪音刺死辅警",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357210&amp;topic_name=%E7%94%B7%E5%AD%90%E4%B8%8D%E5%A0%AA%E7%82%B8%E8%A1%97%E5%99%AA%E9%9F%B3%E5%88%BA%E6%AD%BB%E8%BE%85%E8%AD%A6",
+    "rank": 12,
+    "heat": 0,
+    "desc": "男子称常遭“炸街”折磨，凌晨被吵醒刺死19岁骑行辅警，一审判死刑。",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "tieba",
+    "title": "女子逆行撞小伙被拘留罚款",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357196&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%86%E8%A1%8C%E6%92%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E6%8B%98%E7%95%99%E7%BD%9A%E6%AC%BE",
+    "rank": 13,
+    "heat": 0,
+    "desc": "“我听交警的”事件最新进展，代理律师发文：一审判决涉事女子道歉并赔偿。",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "tieba",
+    "title": "炸鸡店爆单,员工忙晕倒地",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357214&amp;topic_name=%E7%82%B8%E9%B8%A1%E5%BA%97%E7%88%86%E5%8D%95%2C%E5%91%98%E5%B7%A5%E5%BF%99%E6%99%95%E5%80%92%E5%9C%B0",
+    "rank": 14,
+    "heat": 0,
+    "desc": "炸鸡外卖店深夜爆单，员工情绪崩溃倒地抽搐，疑似呼吸性碱中毒。",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "tieba",
+    "title": "百万粉灵异女网红车祸身亡",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357208&amp;topic_name=%E7%99%BE%E4%B8%87%E7%B2%89%E7%81%B5%E5%BC%82%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1",
+    "rank": 15,
+    "heat": 0,
+    "desc": "灵异探险女网红姜小柔去世，生前最后一期视频曾预言车祸身亡。",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "tieba",
+    "title": "马斯克安利中国,外网闹麻",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357190&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%89%E5%88%A9%E4%B8%AD%E5%9B%BD%2C%E5%A4%96%E7%BD%91%E9%97%B9%E9%BA%BB",
+    "rank": 16,
+    "heat": 0,
+    "desc": "马斯克夸奖中国，强烈推荐来华旅游，外国网友又破防。",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "tieba",
+    "title": "C罗结婚,十年恋情终圆满",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357188&amp;topic_name=C%E7%BD%97%E7%BB%93%E5%A9%9A%2C%E5%8D%81%E5%B9%B4%E6%81%8B%E6%83%85%E7%BB%88%E5%9C%86%E6%BB%A1",
+    "rank": 17,
+    "heat": 0,
+    "desc": "C罗晒出和乔治娜的婚戒照片，两人已在葡萄牙当地举行结婚仪式，10年爱情长跑修成正果。",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "tieba",
+    "title": "后宫女主献吻反派,读者炸锅",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357167&amp;topic_name=%E5%90%8E%E5%AE%AB%E5%A5%B3%E4%B8%BB%E7%8C%AE%E5%90%BB%E5%8F%8D%E6%B4%BE%2C%E8%AF%BB%E8%80%85%E7%82%B8%E9%94%85",
+    "rank": 18,
+    "heat": 0,
+    "desc": "《无职转生》作者新作《半兽人英雄物语》爆逆天剧情：满好感后宫女主私会反派，亲密互动并接吻。读者人麻了：这不是NTR，纯纯喂屎。",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "tieba",
+    "title": "Tian拿周最佳,LPL荣誉贬值",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357164&amp;topic_name=Tian%E6%8B%BF%E5%91%A8%E6%9C%80%E4%BD%B3%2CLPL%E8%8D%A3%E8%AA%89%E8%B4%AC%E5%80%BC",
+    "rank": 19,
+    "heat": 0,
+    "desc": "TES打野Tian拿下最新一期周最佳选手，数据垫底还有奖，LPL含金量又跌了。",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "tieba",
+    "title": "亏损严重,红米手机抗压涨价",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357251&amp;topic_name=%E4%BA%8F%E6%8D%9F%E4%B8%A5%E9%87%8D%2C%E7%BA%A2%E7%B1%B3%E6%89%8B%E6%9C%BA%E6%8A%97%E5%8E%8B%E6%B6%A8%E4%BB%B7",
+    "rank": 20,
+    "heat": 0,
+    "desc": "REDMI K100 Pro/Pro Max首发价出炉，吧友表示有点难顶。",
+    "tags": [],
+    "extra": {}
+   }
+  ],
   "baidu": [
    {
     "source": "baidu",
     "title": "“最重要的就是一个都不能少”",
     "url": "https://www.baidu.com/s?wd=“最重要的就是一个都不能少”",
     "rank": 1,
-    "heat": 7904893,
+    "heat": 7904260,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1832,7 +2034,7 @@
     "title": "朱镕基同志逝世",
     "url": "https://www.baidu.com/s?wd=朱镕基同志逝世",
     "rank": 2,
-    "heat": 7809314,
+    "heat": 7808257,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1842,7 +2044,7 @@
     "title": "白海豚凭什么浇透小半个中国",
     "url": "https://www.baidu.com/s?wd=白海豚凭什么浇透小半个中国",
     "rank": 3,
-    "heat": 7711909,
+    "heat": 7714642,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1852,7 +2054,7 @@
     "title": "5年10万亿元消费增量目标怎样实现",
     "url": "https://www.baidu.com/s?wd=5年10万亿元消费增量目标怎样实现",
     "rank": 4,
-    "heat": 7617864,
+    "heat": 7616736,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1862,7 +2064,7 @@
     "title": "73岁奶奶将成中国首批太空游客",
     "url": "https://www.baidu.com/s?wd=73岁奶奶将成中国首批太空游客",
     "rank": 5,
-    "heat": 7522964,
+    "heat": 7519732,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1872,7 +2074,7 @@
     "title": "日本“草莓仙人”挑衅中国人",
     "url": "https://www.baidu.com/s?wd=日本“草莓仙人”挑衅中国人",
     "rank": 6,
-    "heat": 7427585,
+    "heat": 7425846,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1882,7 +2084,7 @@
     "title": "新规来了：禁止在居民楼开油烟餐饮",
     "url": "https://www.baidu.com/s?wd=新规来了：禁止在居民楼开油烟餐饮",
     "rank": 7,
-    "heat": 7331457,
+    "heat": 7328024,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1892,7 +2094,7 @@
     "title": "职业本科“吃螃蟹” 的学生经历了啥",
     "url": "https://www.baidu.com/s?wd=职业本科“吃螃蟹” 的学生经历了啥",
     "rank": 8,
-    "heat": 7233205,
+    "heat": 7237219,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1902,7 +2104,7 @@
     "title": "医保局公布住院人次排名第一的疾病",
     "url": "https://www.baidu.com/s?wd=医保局公布住院人次排名第一的疾病",
     "rank": 9,
-    "heat": 7136274,
+    "heat": 7139263,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1912,7 +2114,7 @@
     "title": "爱吃西红柿的人真的“赚”了",
     "url": "https://www.baidu.com/s?wd=爱吃西红柿的人真的“赚”了",
     "rank": 10,
-    "heat": 7039222,
+    "heat": 7045071,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1922,7 +2124,7 @@
     "title": "魏家凉皮贵了1块钱",
     "url": "https://www.baidu.com/s?wd=魏家凉皮贵了1块钱",
     "rank": 11,
-    "heat": 6950064,
+    "heat": 6953563,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1932,7 +2134,7 @@
     "title": "暑期网上冲浪 这份安全提示请收好",
     "url": "https://www.baidu.com/s?wd=暑期网上冲浪 这份安全提示请收好",
     "rank": 12,
-    "heat": 6856360,
+    "heat": 6857200,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1942,7 +2144,7 @@
     "title": "白海豚走了 梭子蟹来了",
     "url": "https://www.baidu.com/s?wd=白海豚走了 梭子蟹来了",
     "rank": 13,
-    "heat": 6760144,
+    "heat": 6751168,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1952,17 +2154,7 @@
     "title": "普京首次登上俄日争议岛屿",
     "url": "https://www.baidu.com/s?wd=普京首次登上俄日争议岛屿",
     "rank": 14,
-    "heat": 6660985,
-    "desc": "",
-    "tags": [],
-    "extra": {}
-   },
-   {
-    "source": "baidu",
-    "title": "邹市明45岁重返拳击赛场",
-    "url": "https://www.baidu.com/s?wd=邹市明45岁重返拳击赛场",
-    "rank": 15,
-    "heat": 6565388,
+    "heat": 6666789,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1971,8 +2163,18 @@
     "source": "baidu",
     "title": "为见24岁儿子最后一面母亲报警赶高铁",
     "url": "https://www.baidu.com/s?wd=为见24岁儿子最后一面母亲报警赶高铁",
+    "rank": 15,
+    "heat": 6571514,
+    "desc": "",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "baidu",
+    "title": "邹市明45岁重返拳击赛场",
+    "url": "https://www.baidu.com/s?wd=邹市明45岁重返拳击赛场",
     "rank": 16,
-    "heat": 6477625,
+    "heat": 6476636,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1982,7 +2184,7 @@
     "title": "学生兼职送外卖一个月倒欠公司200多",
     "url": "https://www.baidu.com/s?wd=学生兼职送外卖一个月倒欠公司200多",
     "rank": 17,
-    "heat": 6379396,
+    "heat": 6381445,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -1992,7 +2194,7 @@
     "title": "重罚台风请假员工公司多年0人参保",
     "url": "https://www.baidu.com/s?wd=重罚台风请假员工公司多年0人参保",
     "rank": 18,
-    "heat": 6278227,
+    "heat": 6278398,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -2002,7 +2204,7 @@
     "title": "谁在给可乐“判死刑”",
     "url": "https://www.baidu.com/s?wd=谁在给可乐“判死刑”",
     "rank": 19,
-    "heat": 6188077,
+    "heat": 6190464,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -2012,7 +2214,7 @@
     "title": "美国老师崩溃痛哭：高中生不会读写",
     "url": "https://www.baidu.com/s?wd=美国老师崩溃痛哭：高中生不会读写",
     "rank": 20,
-    "heat": 6092150,
+    "heat": 6088530,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -2022,9 +2224,9 @@
    {
     "source": "toutiao",
     "title": "朱镕基同志逝世",
-    "url": "https://www.toutiao.com/trending/7672219414749793835/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672219414749793835%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7672219414749793835",
+    "url": "https://www.toutiao.com/trending/7672219414749793835/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672219414749793835%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7672219414749793835",
     "rank": 1,
-    "heat": 82829231,
+    "heat": 83061552,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -2032,9 +2234,9 @@
    {
     "source": "toutiao",
     "title": "普京首次登上俄日争议岛屿",
-    "url": "https://www.toutiao.com/trending/7673075229438427190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673075229438427190%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%99%AE%E4%BA%AC%E9%A6%96%E6%AC%A1%E7%99%BB%E4%B8%8A%E4%BF%84%E6%97%A5%E4%BA%89%E8%AE%AE%E5%B2%9B%E5%B1%BF%22%7D&rank=&style_id=40132&topic_id=7673075229438427190",
+    "url": "https://www.toutiao.com/trending/7673075229438427190/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673075229438427190%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%99%AE%E4%BA%AC%E9%A6%96%E6%AC%A1%E7%99%BB%E4%B8%8A%E4%BF%84%E6%97%A5%E4%BA%89%E8%AE%AE%E5%B2%9B%E5%B1%BF%22%7D&rank=&style_id=40132&topic_id=7673075229438427190",
     "rank": 2,
-    "heat": 74946988,
+    "heat": 75157201,
     "desc": "hot",
     "tags": [],
     "extra": {}
@@ -2044,7 +2246,7 @@
     "title": "新能源汽车迎来两个“首次”突破",
     "url": "https://www.toutiao.com/article/7673107114570662415",
     "rank": 3,
-    "heat": 67814839,
+    "heat": 68005047,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -2052,9 +2254,9 @@
    {
     "source": "toutiao",
     "title": "新规：禁止在居民楼开油烟餐饮",
-    "url": "https://www.toutiao.com/trending/7672900424688779318/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672900424688779318%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%96%B0%E8%A7%84%EF%BC%9A%E7%A6%81%E6%AD%A2%E5%9C%A8%E5%B1%85%E6%B0%91%E6%A5%BC%E5%BC%80%E6%B2%B9%E7%83%9F%E9%A4%90%E9%A5%AE%22%7D&rank=&style_id=40132&topic_id=7672900424688779318",
+    "url": "https://www.toutiao.com/trending/7672900424688779318/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672900424688779318%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%96%B0%E8%A7%84%EF%BC%9A%E7%A6%81%E6%AD%A2%E5%9C%A8%E5%B1%85%E6%B0%91%E6%A5%BC%E5%BC%80%E6%B2%B9%E7%83%9F%E9%A4%90%E9%A5%AE%22%7D&rank=&style_id=40132&topic_id=7672900424688779318",
     "rank": 4,
-    "heat": 61361403,
+    "heat": 61533511,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -2062,9 +2264,9 @@
    {
     "source": "toutiao",
     "title": "“两弹一星”元勋王希季逝世",
-    "url": "https://www.toutiao.com/trending/7673368453977214515/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673368453977214515%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E2%80%9C%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E2%80%9D%E5%85%83%E5%8B%8B%E7%8E%8B%E5%B8%8C%E5%AD%A3%E9%80%9D%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7673368453977214515",
+    "url": "https://www.toutiao.com/trending/7673368453977214515/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673368453977214515%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E2%80%9C%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E2%80%9D%E5%85%83%E5%8B%8B%E7%8E%8B%E5%B8%8C%E5%AD%A3%E9%80%9D%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7673368453977214515",
     "rank": 5,
-    "heat": 55522094,
+    "heat": 55677823,
     "desc": "hot",
     "tags": [],
     "extra": {}
@@ -2072,9 +2274,9 @@
    {
     "source": "toutiao",
     "title": "手机价格全线暴涨",
-    "url": "https://www.toutiao.com/trending/7673341653165162550/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673341653165162550%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E5%85%A8%E7%BA%BF%E6%9A%B4%E6%B6%A8%22%7D&rank=&style_id=40132&topic_id=7673341653165162550",
+    "url": "https://www.toutiao.com/trending/7673341653165162550/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673341653165162550%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E5%85%A8%E7%BA%BF%E6%9A%B4%E6%B6%A8%22%7D&rank=&style_id=40132&topic_id=7673341653165162550",
     "rank": 6,
-    "heat": 50238468,
+    "heat": 50379378,
     "desc": "new",
     "tags": [],
     "extra": {}
@@ -2082,9 +2284,9 @@
    {
     "source": "toutiao",
     "title": "普京：必须确保俄所有边境和领土安全",
-    "url": "https://www.toutiao.com/trending/7672595554475737094/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672595554475737094%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%BF%85%E9%A1%BB%E7%A1%AE%E4%BF%9D%E4%BF%84%E6%89%80%E6%9C%89%E8%BE%B9%E5%A2%83%E5%92%8C%E9%A2%86%E5%9C%9F%E5%AE%89%E5%85%A8%22%7D&rank=&style_id=40132&topic_id=7672595554475737094",
+    "url": "https://www.toutiao.com/trending/7672595554475737094/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672595554475737094%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%BF%85%E9%A1%BB%E7%A1%AE%E4%BF%9D%E4%BF%84%E6%89%80%E6%9C%89%E8%BE%B9%E5%A2%83%E5%92%8C%E9%A2%86%E5%9C%9F%E5%AE%89%E5%85%A8%22%7D&rank=&style_id=40132&topic_id=7672595554475737094",
     "rank": 7,
-    "heat": 45457646,
+    "heat": 45585146,
     "desc": "hot",
     "tags": [],
     "extra": {}
@@ -2092,39 +2294,39 @@
    {
     "source": "toutiao",
     "title": "胖东来许昌老店关闭周边商户发声",
-    "url": "https://www.toutiao.com/trending/7672215993464963123/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672215993464963123%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%83%96%E4%B8%9C%E6%9D%A5%E8%AE%B8%E6%98%8C%E8%80%81%E5%BA%97%E5%85%B3%E9%97%AD%E5%91%A8%E8%BE%B9%E5%95%86%E6%88%B7%E5%8F%91%E5%A3%B0%22%7D&rank=&style_id=40132&topic_id=7672215993464963123",
+    "url": "https://www.toutiao.com/trending/7672215993464963123/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672215993464963123%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%83%96%E4%B8%9C%E6%9D%A5%E8%AE%B8%E6%98%8C%E8%80%81%E5%BA%97%E5%85%B3%E9%97%AD%E5%91%A8%E8%BE%B9%E5%95%86%E6%88%B7%E5%8F%91%E5%A3%B0%22%7D&rank=&style_id=40132&topic_id=7672215993464963123",
     "rank": 8,
-    "heat": 41131779,
+    "heat": 41247146,
     "desc": "",
     "tags": [],
     "extra": {}
    },
    {
     "source": "toutiao",
-    "title": "美国老师崩溃痛哭：高中生不会读写",
-    "url": "https://www.toutiao.com/trending/7673322961486495780/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673322961486495780%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E8%80%81%E5%B8%88%E5%B4%A9%E6%BA%83%E7%97%9B%E5%93%AD%EF%BC%9A%E9%AB%98%E4%B8%AD%E7%94%9F%E4%B8%8D%E4%BC%9A%E8%AF%BB%E5%86%99%22%7D&rank=&style_id=40132&topic_id=7673322961486495780",
+    "title": "城管罚款转入个人微信 当地回应",
+    "url": "https://www.toutiao.com/trending/7673052621725941811/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673052621725941811%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9F%8E%E7%AE%A1%E7%BD%9A%E6%AC%BE%E8%BD%AC%E5%85%A5%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%22%7D&rank=&style_id=40132&topic_id=7673052621725941811",
     "rank": 9,
-    "heat": 37217572,
+    "heat": 37321961,
+    "desc": "",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "toutiao",
+    "title": "爷爷用象鼻虫做风车逗孙女",
+    "url": "https://www.toutiao.com/trending/7673115563598168083/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673115563598168083%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%88%B7%E7%88%B7%E7%94%A8%E8%B1%A1%E9%BC%BB%E8%99%AB%E5%81%9A%E9%A3%8E%E8%BD%A6%E9%80%97%E5%AD%99%E5%A5%B3%22%7D&rank=&style_id=40132&topic_id=7673115563598168083",
+    "rank": 10,
+    "heat": 33770307,
     "desc": "onSite",
     "tags": [],
     "extra": {}
    },
    {
     "source": "toutiao",
-    "title": "城管罚款转入个人微信 当地回应",
-    "url": "https://www.toutiao.com/trending/7673052621725941811/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673052621725941811%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9F%8E%E7%AE%A1%E7%BD%9A%E6%AC%BE%E8%BD%AC%E5%85%A5%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%22%7D&rank=&style_id=40132&topic_id=7673052621725941811",
-    "rank": 10,
-    "heat": 33675852,
-    "desc": "new",
-    "tags": [],
-    "extra": {}
-   },
-   {
-    "source": "toutiao",
     "title": "李雪健已完全听不见",
-    "url": "https://www.toutiao.com/trending/7673294932488048137/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673294932488048137%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E9%9B%AA%E5%81%A5%E5%B7%B2%E5%AE%8C%E5%85%A8%E5%90%AC%E4%B8%8D%E8%A7%81%22%7D&rank=&style_id=40132&topic_id=7673294932488048137",
+    "url": "https://www.toutiao.com/trending/7673294932488048137/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673294932488048137%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E9%9B%AA%E5%81%A5%E5%B7%B2%E5%AE%8C%E5%85%A8%E5%90%AC%E4%B8%8D%E8%A7%81%22%7D&rank=&style_id=40132&topic_id=7673294932488048137",
     "rank": 11,
-    "heat": 30471171,
+    "heat": 30556637,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -2132,29 +2334,39 @@
    {
     "source": "toutiao",
     "title": "暑期网上冲浪安全提示请收好",
-    "url": "https://www.toutiao.com/trending/7672657180474900499/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672657180474900499%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9A%91%E6%9C%9F%E7%BD%91%E4%B8%8A%E5%86%B2%E6%B5%AA%E5%AE%89%E5%85%A8%E6%8F%90%E7%A4%BA%E8%AF%B7%E6%94%B6%E5%A5%BD%22%7D&rank=&style_id=40132&topic_id=7672657180474900499",
+    "url": "https://www.toutiao.com/trending/7672657180474900499/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672657180474900499%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9A%91%E6%9C%9F%E7%BD%91%E4%B8%8A%E5%86%B2%E6%B5%AA%E5%AE%89%E5%85%A8%E6%8F%90%E7%A4%BA%E8%AF%B7%E6%94%B6%E5%A5%BD%22%7D&rank=&style_id=40132&topic_id=7672657180474900499",
     "rank": 12,
-    "heat": 27571456,
+    "heat": 27648789,
     "desc": "refuteRumors",
     "tags": [],
     "extra": {}
    },
    {
     "source": "toutiao",
-    "title": "爷爷用象鼻虫做风车逗孙女",
-    "url": "https://www.toutiao.com/trending/7673115563598168083/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673115563598168083%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%88%B7%E7%88%B7%E7%94%A8%E8%B1%A1%E9%BC%BB%E8%99%AB%E5%81%9A%E9%A3%8E%E8%BD%A6%E9%80%97%E5%AD%99%E5%A5%B3%22%7D&rank=&style_id=40132&topic_id=7673115563598168083",
+    "title": "大哥坐礁石上被浪打进礁石缝",
+    "url": "https://www.toutiao.com/trending/7673368791008460809/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673368791008460809%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%A7%E5%93%A5%E5%9D%90%E7%A4%81%E7%9F%B3%E4%B8%8A%E8%A2%AB%E6%B5%AA%E6%89%93%E8%BF%9B%E7%A4%81%E7%9F%B3%E7%BC%9D%22%7D&rank=&style_id=40132&topic_id=7673368791008460809",
     "rank": 13,
-    "heat": 24947685,
+    "heat": 25017658,
     "desc": "onSite",
     "tags": [],
     "extra": {}
    },
    {
     "source": "toutiao",
-    "title": "大哥坐礁石上被浪打进礁石缝",
-    "url": "https://www.toutiao.com/trending/7673368791008460809/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673368791008460809%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%A7%E5%93%A5%E5%9D%90%E7%A4%81%E7%9F%B3%E4%B8%8A%E8%A2%AB%E6%B5%AA%E6%89%93%E8%BF%9B%E7%A4%81%E7%9F%B3%E7%BC%9D%22%7D&rank=&style_id=40132&topic_id=7673368791008460809",
+    "title": "羊群逆行上省道遭货车猛烈撞击",
+    "url": "https://www.toutiao.com/trending/7673030147286892586/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673030147286892586%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8A%E7%BE%A4%E9%80%86%E8%A1%8C%E4%B8%8A%E7%9C%81%E9%81%93%E9%81%AD%E8%B4%A7%E8%BD%A6%E7%8C%9B%E7%83%88%E6%92%9E%E5%87%BB%22%7D&rank=&style_id=40132&topic_id=7673030147286892586",
     "rank": 14,
-    "heat": 22573598,
+    "heat": 22636913,
+    "desc": "new",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "toutiao",
+    "title": "美国老师崩溃痛哭：高中生不会读写",
+    "url": "https://www.toutiao.com/trending/7673322961486495780/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673322961486495780%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E8%80%81%E5%B8%88%E5%B4%A9%E6%BA%83%E7%97%9B%E5%93%AD%EF%BC%9A%E9%AB%98%E4%B8%AD%E7%94%9F%E4%B8%8D%E4%BC%9A%E8%AF%BB%E5%86%99%22%7D&rank=&style_id=40132&topic_id=7673322961486495780",
+    "rank": 15,
+    "heat": 20482726,
     "desc": "onSite",
     "tags": [],
     "extra": {}
@@ -2162,29 +2374,19 @@
    {
     "source": "toutiao",
     "title": "银行能办结婚证了",
-    "url": "https://www.toutiao.com/trending/7673168461392445446/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673168461392445446%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%93%B6%E8%A1%8C%E8%83%BD%E5%8A%9E%E7%BB%93%E5%A9%9A%E8%AF%81%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7673168461392445446",
-    "rank": 15,
-    "heat": 20425437,
+    "url": "https://www.toutiao.com/trending/7673168461392445446/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673168461392445446%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%93%B6%E8%A1%8C%E8%83%BD%E5%8A%9E%E7%BB%93%E5%A9%9A%E8%AF%81%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7673168461392445446",
+    "rank": 16,
+    "heat": 18533537,
     "desc": "",
     "tags": [],
     "extra": {}
    },
    {
     "source": "toutiao",
-    "title": "羊群逆行上省道遭货车猛烈撞击",
-    "url": "https://www.toutiao.com/trending/7673030147286892586/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673030147286892586%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8A%E7%BE%A4%E9%80%86%E8%A1%8C%E4%B8%8A%E7%9C%81%E9%81%93%E9%81%AD%E8%B4%A7%E8%BD%A6%E7%8C%9B%E7%83%88%E6%92%9E%E5%87%BB%22%7D&rank=&style_id=40132&topic_id=7673030147286892586",
-    "rank": 16,
-    "heat": 18481699,
-    "desc": "new",
-    "tags": [],
-    "extra": {}
-   },
-   {
-    "source": "toutiao",
     "title": "学生兼职送外卖一个月倒欠公司200多",
-    "url": "https://www.toutiao.com/trending/7673329254230163499/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673329254230163499%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AD%A6%E7%94%9F%E5%85%BC%E8%81%8C%E9%80%81%E5%A4%96%E5%8D%96%E4%B8%80%E4%B8%AA%E6%9C%88%E5%80%92%E6%AC%A0%E5%85%AC%E5%8F%B8200%E5%A4%9A%22%7D&rank=&style_id=40132&topic_id=7673329254230163499",
+    "url": "https://www.toutiao.com/trending/7673329254230163499/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673329254230163499%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AD%A6%E7%94%9F%E5%85%BC%E8%81%8C%E9%80%81%E5%A4%96%E5%8D%96%E4%B8%80%E4%B8%AA%E6%9C%88%E5%80%92%E6%AC%A0%E5%85%AC%E5%8F%B8200%E5%A4%9A%22%7D&rank=&style_id=40132&topic_id=7673329254230163499",
     "rank": 17,
-    "heat": 16722933,
+    "heat": 16769838,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -2192,9 +2394,9 @@
    {
     "source": "toutiao",
     "title": "中国印尼首次台岛以东联演有何深意",
-    "url": "https://www.toutiao.com/trending/7672677889229684779/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672677889229684779%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%8D%B0%E5%B0%BC%E9%A6%96%E6%AC%A1%E5%8F%B0%E5%B2%9B%E4%BB%A5%E4%B8%9C%E8%81%94%E6%BC%94%E6%9C%89%E4%BD%95%E6%B7%B1%E6%84%8F%22%7D&rank=&style_id=40132&topic_id=7672677889229684779",
+    "url": "https://www.toutiao.com/trending/7672677889229684779/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227672677889229684779%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%8D%B0%E5%B0%BC%E9%A6%96%E6%AC%A1%E5%8F%B0%E5%B2%9B%E4%BB%A5%E4%B8%9C%E8%81%94%E6%BC%94%E6%9C%89%E4%BD%95%E6%B7%B1%E6%84%8F%22%7D&rank=&style_id=40132&topic_id=7672677889229684779",
     "rank": 18,
-    "heat": 15131535,
+    "heat": 15173977,
     "desc": "interpretation",
     "tags": [],
     "extra": {}
@@ -2202,9 +2404,9 @@
    {
     "source": "toutiao",
     "title": "河南百年水位标识铁水牛被洪水淹没",
-    "url": "https://www.toutiao.com/trending/7673238870116450330/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673238870116450330%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B2%B3%E5%8D%97%E7%99%BE%E5%B9%B4%E6%B0%B4%E4%BD%8D%E6%A0%87%E8%AF%86%E9%93%81%E6%B0%B4%E7%89%9B%E8%A2%AB%E6%B4%AA%E6%B0%B4%E6%B7%B9%E6%B2%A1%22%7D&rank=&style_id=40132&topic_id=7673238870116450330",
+    "url": "https://www.toutiao.com/trending/7673238870116450330/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673238870116450330%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B2%B3%E5%8D%97%E7%99%BE%E5%B9%B4%E6%B0%B4%E4%BD%8D%E6%A0%87%E8%AF%86%E9%93%81%E6%B0%B4%E7%89%9B%E8%A2%AB%E6%B4%AA%E6%B0%B4%E6%B7%B9%E6%B2%A1%22%7D&rank=&style_id=40132&topic_id=7673238870116450330",
     "rank": 19,
-    "heat": 13691579,
+    "heat": 13729982,
     "desc": "onSite",
     "tags": [],
     "extra": {}
@@ -2212,9 +2414,9 @@
    {
     "source": "toutiao",
     "title": "货车停服务区过夜绑带被割一半",
-    "url": "https://www.toutiao.com/trending/7673156714837426230/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673156714837426230%22%2C%22hot_board_impr_id%22%3A%22202608131504321860D58B230500083741%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%B4%A7%E8%BD%A6%E5%81%9C%E6%9C%8D%E5%8A%A1%E5%8C%BA%E8%BF%87%E5%A4%9C%E7%BB%91%E5%B8%A6%E8%A2%AB%E5%89%B2%E4%B8%80%E5%8D%8A%22%7D&rank=&style_id=40132&topic_id=7673156714837426230",
+    "url": "https://www.toutiao.com/trending/7673156714837426230/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227673156714837426230%22%2C%22hot_board_impr_id%22%3A%222026081315093777BDC90FB2318E82D5BD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%B4%A7%E8%BD%A6%E5%81%9C%E6%9C%8D%E5%8A%A1%E5%8C%BA%E8%BF%87%E5%A4%9C%E7%BB%91%E5%B8%A6%E8%A2%AB%E5%89%B2%E4%B8%80%E5%8D%8A%22%7D&rank=&style_id=40132&topic_id=7673156714837426230",
     "rank": 20,
-    "heat": 12388653,
+    "heat": 12423401,
     "desc": "",
     "tags": [],
     "extra": {}
@@ -2428,7 +2630,7 @@
     "title": "不建议年轻人刻意抑制消费去完成所谓的原始积累",
     "url": "https://www.v2ex.com/t/1233943",
     "rank": 1,
-    "heat": 102,
+    "heat": 103,
     "desc": "以前我也相信年轻人应该尽量减少消费，完成原始积累，再相信复利的力量搞长期投资。即所谓的一万不买手机、十万不买车、一百万不买房。但是随着年龄的增长，我不认可这个说法了，至少不完全认同了。房子可以不买，但手机与车则是能买就买吧。节衣缩食，用最便",
     "tags": [
      "生活"
@@ -2461,25 +2663,25 @@
    },
    {
     "source": "v2ex",
-    "title": "不到一个小时后重置，快蹬",
-    "url": "https://www.v2ex.com/t/1234001",
+    "title": "秋招工作是真难找啊，试了很多路子，想听点建议。",
+    "url": "https://www.v2ex.com/t/1234077",
     "rank": 4,
-    "heat": 69,
-    "desc": "https://x.com/thsottiaux/status/2087706104814023111?s=46&amp;t=FS3N8dQNaOIMcqqIXdQXsA",
+    "heat": 72,
+    "desc": "我的简历： https://y06c8e8us2nknqg9.public.blob.vercel-storage.com/resumes/jie_resume_chinese.pdf 主页：jingcjie.top 我能想到的公司全都投了",
     "tags": [
-     "OpenAI"
+     "职场话题"
     ],
     "extra": {}
    },
    {
     "source": "v2ex",
-    "title": "秋招工作是真难找啊，试了很多路子，想听点建议。",
-    "url": "https://www.v2ex.com/t/1234077",
+    "title": "不到一个小时后重置，快蹬",
+    "url": "https://www.v2ex.com/t/1234001",
     "rank": 5,
-    "heat": 68,
-    "desc": "我的简历： https://y06c8e8us2nknqg9.public.blob.vercel-storage.com/resumes/jie_resume_chinese.pdf 主页：jingcjie.top 我能想到的公司全都投了",
+    "heat": 69,
+    "desc": "https://x.com/thsottiaux/status/2087706104814023111?s=46&amp;t=FS3N8dQNaOIMcqqIXdQXsA",
     "tags": [
-     "职场话题"
+     "OpenAI"
     ],
     "extra": {}
    },
@@ -2512,7 +2714,7 @@
     "title": "不要轻易借钱给别人",
     "url": "https://www.v2ex.com/t/1233952",
     "rank": 8,
-    "heat": 51,
+    "heat": 52,
     "desc": "之前租房认识的一个老乡，老家就隔了几公里，比我小 2 岁，一直给我的感觉比较上进，最开始跟着父亲做装修工人+杂活，然后自学进入了 IT 行业，我们就偶尔在朋友圈点赞，偶尔聊聊。 7 月 31 日 朋友圈随手点了个赞， 然后他在微信上主动找过",
     "tags": [
      "生活"
@@ -2548,18 +2750,8 @@
     "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
     "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
     "rank": 2,
-    "heat": 966,
-    "desc": "183 comments",
-    "tags": [],
-    "extra": {}
-   },
-   {
-    "source": "hackernews",
-    "title": "Delta",
-    "url": "https://zed.dev/blog/introducing-delta",
-    "rank": 3,
-    "heat": 508,
-    "desc": "177 comments",
+    "heat": 969,
+    "desc": "184 comments",
     "tags": [],
     "extra": {}
    },
@@ -2567,9 +2759,19 @@
     "source": "hackernews",
     "title": "Mushroom behind 'tiny people' hallucinations identified",
     "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
+    "rank": 3,
+    "heat": 65,
+    "desc": "31 comments",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "hackernews",
+    "title": "Delta",
+    "url": "https://zed.dev/blog/introducing-delta",
     "rank": 4,
-    "heat": 62,
-    "desc": "28 comments",
+    "heat": 510,
+    "desc": "178 comments",
     "tags": [],
     "extra": {}
    },
@@ -2588,7 +2790,7 @@
     "title": "Principia Mathematica is modern and insightful",
     "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
     "rank": 6,
-    "heat": 124,
+    "heat": 126,
     "desc": "56 comments",
     "tags": [],
     "extra": {}
@@ -2598,8 +2800,8 @@
     "title": "Antiqua–Fraktur dispute",
     "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
     "rank": 7,
-    "heat": 67,
-    "desc": "7 comments",
+    "heat": 68,
+    "desc": "8 comments",
     "tags": [],
     "extra": {}
    },
@@ -2608,8 +2810,8 @@
     "title": "ChatGPT Desktop (Codex Desktop) for Linux",
     "url": "https://openai.com/codex/",
     "rank": 8,
-    "heat": 16,
-    "desc": "3 comments",
+    "heat": 19,
+    "desc": "4 comments",
     "tags": [],
     "extra": {}
    },
@@ -2618,7 +2820,7 @@
     "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
     "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
     "rank": 9,
-    "heat": 72,
+    "heat": 74,
     "desc": "20 comments",
     "tags": [],
     "extra": {}
@@ -2639,17 +2841,7 @@
     "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
     "rank": 11,
     "heat": 83,
-    "desc": "64 comments",
-    "tags": [],
-    "extra": {}
-   },
-   {
-    "source": "hackernews",
-    "title": "Tim King, AmigaDOS developer, has died",
-    "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-    "rank": 12,
-    "heat": 262,
-    "desc": "31 comments",
+    "desc": "67 comments",
     "tags": [],
     "extra": {}
    },
@@ -2657,9 +2849,19 @@
     "source": "hackernews",
     "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
     "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
+    "rank": 12,
+    "heat": 421,
+    "desc": "535 comments",
+    "tags": [],
+    "extra": {}
+   },
+   {
+    "source": "hackernews",
+    "title": "Tim King, AmigaDOS developer, has died",
+    "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
     "rank": 13,
-    "heat": 416,
-    "desc": "532 comments",
+    "heat": 262,
+    "desc": "31 comments",
     "tags": [],
     "extra": {}
    },
@@ -2668,7 +2870,7 @@
     "title": "Flutter 3.47",
     "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
     "rank": 14,
-    "heat": 71,
+    "heat": 73,
     "desc": "63 comments",
     "tags": [],
     "extra": {}
@@ -2688,7 +2890,7 @@
     "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
     "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
     "rank": 16,
-    "heat": 181,
+    "heat": 182,
     "desc": "125 comments",
     "tags": [],
     "extra": {}
@@ -2698,8 +2900,8 @@
     "title": "Grok 4.6",
     "url": "https://x.ai/news/grok-4-6",
     "rank": 17,
-    "heat": 504,
-    "desc": "459 comments",
+    "heat": 506,
+    "desc": "460 comments",
     "tags": [],
     "extra": {}
    },
@@ -2715,21 +2917,21 @@
    },
    {
     "source": "hackernews",
-    "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
-    "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
+    "title": "Why tiny JPEGs look different in Chrome",
+    "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
     "rank": 19,
-    "heat": 103,
-    "desc": "119 comments",
+    "heat": 289,
+    "desc": "63 comments",
     "tags": [],
     "extra": {}
    },
    {
     "source": "hackernews",
-    "title": "Why tiny JPEGs look different in Chrome",
-    "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+    "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
+    "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
     "rank": 20,
-    "heat": 289,
-    "desc": "63 comments",
+    "heat": 104,
+    "desc": "120 comments",
     "tags": [],
     "extra": {}
    }
@@ -2912,7 +3114,7 @@
     "title": "一台安卓手机能跑AI Agent到什么程度？",
     "url": "https://blog.csdn.net/qq_61024956/article/details/163665196",
     "rank": 1,
-    "heat": 10882,
+    "heat": 10883,
     "desc": "27评论 · 26收藏",
     "tags": [],
     "extra": {}
@@ -2922,8 +3124,8 @@
     "title": "【Cookie与Session】无状态 HTTP 如何“记住“你？——从 Cookie 协议到分布式 Session",
     "url": "https://blog.csdn.net/2302_80243065/article/details/163692595",
     "rank": 2,
-    "heat": 1086,
-    "desc": "28评论 · 22收藏",
+    "heat": 1087,
+    "desc": "29评论 · 23收藏",
     "tags": [],
     "extra": {}
    },
@@ -2932,7 +3134,7 @@
     "title": "CentOS部署Kafka：ZooKeeper启动、消息测试与远程调试",
     "url": "https://blog.csdn.net/SDFsoul/article/details/163671162",
     "rank": 3,
-    "heat": 16801,
+    "heat": 16834,
     "desc": "6评论 · 8收藏",
     "tags": [],
     "extra": {}
@@ -2942,7 +3144,7 @@
     "title": "SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测",
     "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163695754",
     "rank": 4,
-    "heat": 9738,
+    "heat": 9775,
     "desc": "38评论 · 41收藏",
     "tags": [],
     "extra": {}
@@ -2952,7 +3154,7 @@
     "title": "极空间部署 Dashlet：搭建自托管导航页并实现远程访问",
     "url": "https://blog.csdn.net/m0_68390957/article/details/163686357",
     "rank": 5,
-    "heat": 17345,
+    "heat": 17371,
     "desc": "26评论 · 32收藏",
     "tags": [],
     "extra": {}
@@ -2962,7 +3164,7 @@
     "title": "AIRI 完全指南：Electron + Capacitor 多端自托管 LLM 虚拟角色",
     "url": "https://blog.csdn.net/zhangay1998/article/details/163082242",
     "rank": 6,
-    "heat": 437,
+    "heat": 438,
     "desc": "2评论 · 6收藏",
     "tags": [],
     "extra": {}
@@ -2972,8 +3174,8 @@
     "title": "Zookeeper - Java API 实现节点的创建与删除开发",
     "url": "https://blog.csdn.net/qq_41187124/article/details/157688811",
     "rank": 7,
-    "heat": 932,
-    "desc": "57评论 · 39收藏",
+    "heat": 933,
+    "desc": "58评论 · 40收藏",
     "tags": [],
     "extra": {}
    },
@@ -2982,7 +3184,7 @@
     "title": "DeepSeek Harness内测开启，AI Agent竞争升级",
     "url": "https://blog.csdn.net/qq_19309473/article/details/163677009",
     "rank": 8,
-    "heat": 1239,
+    "heat": 1242,
     "desc": "0评论 · 4收藏",
     "tags": [],
     "extra": {}
@@ -3002,7 +3204,7 @@
     "title": "腾讯云AISkills原来可以这么玩？使用WorkBuddy结合混元生3D快速生成3D的美利达自行车模型亲身实践指南",
     "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163645735",
     "rank": 10,
-    "heat": 509,
+    "heat": 510,
     "desc": "31评论 · 19收藏",
     "tags": [],
     "extra": {}
@@ -3022,8 +3224,8 @@
     "title": "图解 Python 核心：从环境配置到底层架构的完全指南",
     "url": "https://blog.csdn.net/csdn_silent/article/details/163697182",
     "rank": 12,
-    "heat": 260,
-    "desc": "18评论 · 21收藏",
+    "heat": 262,
+    "desc": "18评论 · 22收藏",
     "tags": [],
     "extra": {}
    },
@@ -3032,8 +3234,8 @@
     "title": "CentOS部署Postgres Exporter：监控PostgreSQL并接入Prometheus",
     "url": "https://blog.csdn.net/weixin_44976692/article/details/163666074",
     "rank": 13,
-    "heat": 12022,
-    "desc": "13评论 · 17收藏",
+    "heat": 12024,
+    "desc": "13评论 · 18收藏",
     "tags": [],
     "extra": {}
    },
@@ -3052,7 +3254,7 @@
     "title": "PyTorch计算机视觉——WGAN-GP在图像生成中的应用",
     "url": "https://blog.csdn.net/LOVEmy134611/article/details/162238763",
     "rank": 15,
-    "heat": 274,
+    "heat": 278,
     "desc": "3评论 · 9收藏",
     "tags": [],
     "extra": {}
@@ -3082,7 +3284,7 @@
     "title": "Python 实战：用 IPPEAK 代理 IP 构建稳定的公开数据采集链路",
     "url": "https://blog.csdn.net/qq_44273429/article/details/163718407",
     "rank": 18,
-    "heat": 1306,
+    "heat": 1350,
     "desc": "6评论 · 6收藏",
     "tags": [],
     "extra": {}
@@ -3092,7 +3294,7 @@
     "title": "深度学习实战-基于EfficientNetB0的观赏鱼图像分类识别模型",
     "url": "https://blog.csdn.net/m0_64336780/article/details/162314247",
     "rank": 19,
-    "heat": 1547,
+    "heat": 1551,
     "desc": "18评论 · 22收藏",
     "tags": [],
     "extra": {}
@@ -3102,7 +3304,7 @@
     "title": "CentOS部署Jenkins：结合cpolar实现Webhook自动构建与发布",
     "url": "https://blog.csdn.net/2501_91062530/article/details/163664797",
     "rank": 20,
-    "heat": 10275,
+    "heat": 10297,
     "desc": "29评论 · 36收藏",
     "tags": [],
     "extra": {}
