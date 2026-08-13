@@ -271,11 +271,11 @@ load();
 """
 
 
-def generate(analysis: dict, date_str: str) -> dict:
+def generate(analysis: dict, date_str: str, fetched_at: str | None = None) -> dict:
     """生成站点文件：index.html + latest.json（history.json 由 report 层维护）。"""
     latest = {
         "date": date_str,
-        "fetched_at": None,  # 由 pipeline 回填
+        "fetched_at": fetched_at,  # ISO 时间戳
         "stats": analysis["stats"],
         "topics": analysis["topics"][:50],
         "per_source": {k: v[:20] for k, v in analysis["per_source"].items()},

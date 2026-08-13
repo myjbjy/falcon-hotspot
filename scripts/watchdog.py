@@ -70,6 +70,20 @@ def check_site() -> None:
     for f in ("index.html", "latest.json", "history.json"):
         if not os.path.exists(os.path.join(SITE, f)):
             fatal.append(f"站点产物缺失: site/{f}")
+    # 站点数据新鲜度：每 3 小时刷新一次，超过 4.5h 未更新视为异常
+    lp = os.path.join(SITE, "latest.json")
+    if os.path.exists(lp):
+        try:
+            with open(lp, encoding="utf-8") as f:
+                data = json.load(f)
+            ts = data.get("fetched_at") or ""
+            if ts:
+                dt = datetime.fromisoformat(ts)
+                age_h = (datetime.now(CST) - dt).total_seconds() / 3600
+                if age_h > 4.5:
+                    warn.append(f"站点数据已 {age_h:.1f} 小时未刷新（>4.5h，正常每 3h 一次）")
+        except Exception as e:
+            fatal.append(f"latest.json 解析失败: {e}")
 
 
 def main() -> int:

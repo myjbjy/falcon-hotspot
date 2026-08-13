@@ -10,7 +10,7 @@ if git diff --cached --quiet; then
     echo "无内容变更，跳过推送"
     exit 0
 fi
-git -c user.name="myjbjy" -c user.email="myjbjy@hdec.com" commit -m "🦅 猎鹰日报自动更新 $(date +%F)" >/dev/null 2>&1
+git -c user.name="myjbjy" -c user.email="myjbjy@hdec.com" commit -m "🦅 猎鹰数据自动更新 $(date +%F_%H%M)" >/dev/null 2>&1
 if git push origin main >/dev/null 2>&1; then
     echo "已推送到 GitHub Pages: https://myjbjy.github.io/falcon-hotspot/"
 else

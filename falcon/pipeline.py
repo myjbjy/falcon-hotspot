@@ -28,14 +28,7 @@ def run_pipeline(only: list[str] | None = None) -> dict:
     archive_path = storage.save_daily(payload, date_str)
     # 4. 报告 + 站点
     report_paths = report.generate(analysis, date_str)
-    web_paths = web.generate(analysis, date_str)
-    # 回填站点元信息
-    latest_path = web_paths["latest"]
-    with open(latest_path, encoding="utf-8") as f:
-        latest = json.load(f)
-    latest["fetched_at"] = raw["fetched_at"]
-    with open(latest_path, "w", encoding="utf-8") as f:
-        json.dump(latest, f, ensure_ascii=False, indent=1)
+    web_paths = web.generate(analysis, date_str, fetched_at=raw["fetched_at"])
 
     return {
         "date": date_str,
