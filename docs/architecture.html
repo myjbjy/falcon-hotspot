@@ -65,11 +65,14 @@
         <!-- 源区 → collector -->
         <line x1="300" y1="210" x2="300" y2="281" stroke="#34d399" stroke-width="1.5" marker-end="url(#arrowhead)"/>
         <text x="312" y="250" fill="#94a3b8" font-size="9">HTTP 抓取</text>
-        <!-- cron → collector -->
-        <line x1="210" y1="292" x2="256" y2="292" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowhead)"/>
-        <text x="216" y="286" fill="#94a3b8" font-size="8">触发</text>
+        <!-- cron(流水线) → collector -->
+        <line x1="210" y1="292" x2="256" y2="292" stroke="#34d399" stroke-width="1.5" marker-end="url(#arrowhead)"/>
+        <text x="216" y="286" fill="#94a3b8" font-size="8">09:10 流水线</text>
+        <!-- cron(高频刷新) → collector -->
+        <line x1="210" y1="324" x2="256" y2="324" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowhead)"/>
+        <text x="216" y="318" fill="#94a3b8" font-size="8">每3h 刷新</text>
         <!-- cron → watchdog -->
-        <line x1="120" y1="324" x2="120" y2="356" stroke="#fb7185" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowhead)"/>
+        <line x1="120" y1="336" x2="120" y2="356" stroke="#fb7185" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowhead)"/>
         <!-- collector → analyzer -->
         <line x1="325" y1="335" x2="325" y2="366" stroke="#34d399" stroke-width="1.5" marker-end="url(#arrowhead)"/>
         <!-- analyzer → report -->
@@ -160,10 +163,11 @@
         <text x="568" y="184" fill="#fb7185" font-size="8" text-anchor="middle">反爬 · CDP 兜底 · 待接入</text>
 
         <!-- ============ 2. 调度 + 监控 ============ -->
-        <rect x="30" y="260" width="180" height="64" rx="6" fill="rgba(30, 41, 59, 0.5)" stroke="#94a3b8" stroke-width="1.5"/>
-        <text x="120" y="280" fill="white" font-size="11" font-weight="600" text-anchor="middle">Hermes 调度 · cron ×2</text>
+        <rect x="30" y="260" width="180" height="76" rx="6" fill="rgba(30, 41, 59, 0.5)" stroke="#94a3b8" stroke-width="1.5"/>
+        <text x="120" y="280" fill="white" font-size="11" font-weight="600" text-anchor="middle">Hermes 调度 · cron ×3</text>
         <text x="120" y="296" fill="#94a3b8" font-size="8" text-anchor="middle">09:10 流水线 (agent+deepseek)</text>
-        <text x="120" y="310" fill="#94a3b8" font-size="8" text-anchor="middle">09:40 watchdog (no_agent)</text>
+        <text x="120" y="310" fill="#94a3b8" font-size="8" text-anchor="middle">每3h 刷新 (no_agent)</text>
+        <text x="120" y="324" fill="#94a3b8" font-size="8" text-anchor="middle">09:40 watchdog (no_agent)</text>
 
         <rect x="30" y="360" width="180" height="48" rx="6" fill="rgba(136, 19, 55, 0.4)" stroke="#fb7185" stroke-width="1.5"/>
         <text x="120" y="380" fill="white" font-size="11" font-weight="600" text-anchor="middle">watchdog.py 监控</text>
@@ -195,7 +199,7 @@
 
         <rect x="420" y="455" width="130" height="50" rx="6" fill="rgba(8, 51, 68, 0.4)" stroke="#22d3ee" stroke-width="1.5"/>
         <text x="485" y="475" fill="white" font-size="11" font-weight="600" text-anchor="middle">web.py</text>
-        <text x="485" y="491" fill="#94a3b8" font-size="8" text-anchor="middle">index + latest.json</text>
+        <text x="485" y="491" fill="#94a3b8" font-size="8" text-anchor="middle">index+latest · 3h刷新</text>
 
         <!-- ============ 4. 存储 ============ -->
         <rect x="600" y="240" width="150" height="260" rx="12" fill="rgba(76, 29, 149, 0.05)" stroke="#a78bfa" stroke-width="1" stroke-dasharray="8,4"/>
@@ -240,8 +244,8 @@
         <div class="card-header"><div class="card-dot amber"></div><h3>成本结构（¥/月）</h3></div>
         <ul>
           <li>• 采集 / 评分 / 报告 / 站点：¥0（纯 Python + 免费公开接口）</li>
+          <li>• 高频刷新 8 次/天 + 监控 watchdog：no_agent 模式，零 LLM 成本</li>
           <li>• LLM 解读：每日 1 次 deepseek flash ≈ ¥0.05/天 ≈ ¥1.5/月</li>
-          <li>• 监控 watchdog：no_agent 模式，零 LLM 成本</li>
           <li>• 托管：GitHub Pages 免费 · 合计 ≈ ¥1.5/月</li>
         </ul>
       </div>
@@ -249,10 +253,10 @@
       <div class="card">
         <div class="card-header"><div class="card-dot rose"></div><h3>可靠性设计</h3></div>
         <ul>
-          <li>• 单源失败隔离：7 源中 ≥4 源成功即继续，失败源记录在案</li>
+          <li>• 单源失败隔离：10 源中 ≥5 源成功即继续，失败源记录在案</li>
+          <li>• 双新鲜度监控：日报归档 30h + 站点数据 4.5h，超时即告警</li>
           <li>• watchdog 连续 2 天异常才报警，单次抖动静默不骚扰</li>
-          <li>• 百度 TLS 抖动 / GitHub 断连：源内自动重试 ×3</li>
-          <li>• deploy 失败有明确错误输出；产物缺失即致命告警</li>
+          <li>• 百度 TLS 抖动 / GitHub / CSDN 断连：源内自动重试</li>
         </ul>
       </div>
 
@@ -267,7 +271,7 @@
       </div>
     </div>
 
-    <p class="footer">Falcon Hotspot v0.1.0 · Shell Engineering 第五形态 · 2026-08-13 · 代码: github.com/myjbjy/falcon-hotspot</p>
+    <p class="footer">Falcon Hotspot v0.2.0 · Shell Engineering 第五形态 · 2026-08-13 · 代码: github.com/myjbjy/falcon-hotspot</p>
   </div>
 </body>
 </html>
